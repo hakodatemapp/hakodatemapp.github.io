@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>函館地域情報LOD - 公立はこだて未来大学 高度ICT演習観光系プロジェクト</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/shop-item.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">函館地域情報LOD</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <!-- <ul class="nav navbar-nav">
+                <li>
+                <a href="#">About</a>
+            </li>
+            <li>
+            <a href="#">Services</a>
+        </li>
+        <li>
+        <a href="#">Contact</a>
+    </li>
+</ul> -->
+</div>
+<!-- /.navbar-collapse -->
+</div>
+<!-- /.container -->
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+
+    <div class="row">
+
+        <div class="col-md-3">
+            <p class="lead">メニュー</p>
+            <div class="list-group">
+                <a href="#about" class="list-group-item">観光系プロジェクトについて</a>
+                <a href="#data" class="list-group-item">データ仕様</a>
+                <a href="#sparql" class="list-group-item">SPARQLエンドポイント</a>
+            </div>
+        </div>
+
+        <div class="col-md-9">
+            <div class="jumbotron">
+                <h1>函館地域情報LOD</h1>
+                <p>公立はこだて未来大学高度ICT演習観光系プロジェクトが作成した函館の地域情報のRDFデータセットを公開しています。</p>
+            </div>
+            <div class="page-header">
+                <h1 id="about">観光系プロジェクトについて</h1>
+            </div>
+
+            <h3>高度ICT演習とは</h3>
+            <p>公立はこだて未来大学で行われている産学連携教育の取り組みで、チームで実践的なシステム開発を行う演習です。地域や大学の課題をICTで解決する様々なテーマに取り組んでいます。</p>
+
+            <h3>観光系プロジェクトの取り組み</h3>
+            <p>地域活性化を目的にスマートフォンアプリケーションやWebサービスの開発をしています。これまで、函館を訪れる観光客のまちあるきを支援するiPhoneアプリケーション「はこだてMap+」などを開発してきました。</p>
+            <div class="row">
+                <div class="col-xs-6 col-md-4">
+                    <img src="image/iphone.png" class="thumbnail" alt="iphone">
+                    <h4>iOS版はこだてMap+</h4>
+                    <a href="https://geo.itunes.apple.com/jp/app/hakodatemap+-machiarukide/id744881889?mt=8" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+                </div>
+                <div class="col-xs-6 col-md-4">
+                    <img src="image/android.png" class="thumbnail" alt="android">
+                    <h4>Android版はこだてMap+</h4>
+                    <a href="https://play.google.com/store/apps/details?id=ac.fun.hakodatemapplus&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/ja-play-badge-border.png" height="50px" /></a>
+                </div>
+            </div>
+
+            <div class="page-header">
+                <h1 id="data">データ仕様について</h1>
+            </div>
+            <h2>提供しているデータ</h2>
+            <p>本プロジェクトでは以下のデータをLinked Open Data (LOD)として公開しています。API (SPARQLエンドポイント)も提供しています。詳しくは、データ仕様を参照して下さい。</p><br>
+
+            <h3>函館まちあるきルート情報</h3>
+            <p>函館市が提供している<a href="http://hakodate-machiaruki.com/map.php">函館まちあるきマップ</a>に掲載されているまちあるきルート情報のLODです。「函館まちあるきマップ」とは、 函館の街並みを歩きながら楽しむことできるルートを掲載した紙媒体の地図です。</p>
+
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading">仕様語彙一覧</div>
+
+                <!-- Table -->
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>prefix</th>
+                            <th>name space</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>rdf</td>
+                            <td>http://www.w3.org/1999/02/22-rdf-syntax-ns#</td>
+                        </tr>
+                        <tr>
+                            <td>rdfs</td>
+                            <td>http://www.w3.org/2000/01/rdf-schema#</td>
+                        </tr>
+                        <tr>
+                            <td>geo</td>
+                            <td>http://www.w3.org/2003/01/geo/wgs84_pos#</td>
+                        </tr>
+                        <tr>
+                            <td>schema</td>
+                            <td>http://schema.org/</td>
+                        </tr>
+                        <tr>
+                            <td>dc</td>
+                            <td>http://purl.org/dc/elements/1.1/</td>
+                        </tr>
+                        <tr>
+                            <td>dcterms</td>
+                            <td>http://purl.org/dc/terms/</td>
+                        </tr>
+                        <tr>
+                            <td>skos</td>
+                            <td>http://www.w3.org/2004/02/skos/core#</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div><!-- 語彙表-->
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading">属性</div>
+                <!-- Table -->
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>項目名</th>
+                            <th>RDFの語彙</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>コース名</td>
+                            <td>rdfs:label</td>
+                        </tr>
+                        <tr>
+                            <td>所用時間</td>
+                            <td>dcterms:abstract</td>
+                        </tr>
+                        <tr>
+                            <td>距離</td>
+                            <td>schema:description</td>
+                        </tr>
+                        <tr>
+                            <td>消費カロリー</td>
+                            <td>dc:description</td>
+                        </tr>
+                        <tr>
+                            <td>コース番号</td>
+                            <td>rdfs:comment</td>
+                        </tr>
+                        <tr>
+                            <td>コース上の観光スポット</td>
+                            <td>dc:relation</td>
+                        </tr>
+                        <tr>
+                            <td>スポット名</td>
+                            <td>schema:name</td>
+                        </tr>
+                        <tr>
+                            <td>緯度</td>
+                            <td>geo:lat</td>
+                        </tr>
+                        <tr>
+                            <td>軽度</td>
+                            <td>geo:long</td>
+                        </tr>
+                        <tr>
+                            <td>ルート番号</td>
+                            <td>dc:subject</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div><!-- 語彙表-->
+
+            <h3>函館土木遺産情報</h3>
+            <p><a href="http://hnct-pbl.jimdo.com/">函館近代化遺産ポータルサイト</a>のRDFデータを作成しました。「函館近代化遺産ポータルサイト」とは、函館の歴史ある土木建築物(ダムや堤防など)の情報を掲載したWebサイトです。このWebサイトは函館工業高等専門学校のPBLで株式会社ノース技研の指導の下に作成されました。</p>
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading">仕様語彙一覧</div>
+
+                <!-- Table -->
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>prefix</th>
+                            <th>name space</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>rdf</td>
+                            <td>http://www.w3.org/1999/02/22-rdf-syntax-ns#</td>
+                        </tr>
+                        <tr>
+                            <td>rdfs</td>
+                            <td>http://www.w3.org/2000/01/rdf-schema#</td>
+                        </tr>
+                        <tr>
+                            <td>geo</td>
+                            <td>http://www.w3.org/2003/01/geo/wgs84_pos#</td>
+                        </tr>
+                        <tr>
+                            <td>schema</td>
+                            <td>http://schema.org/</td>
+                        </tr>
+                        <tr>
+                            <td>dc</td>
+                            <td>http://purl.org/dc/elements/1.1/</td>
+                        </tr>
+                        <tr>
+                            <td>skos</td>
+                            <td>http://www.w3.org/2004/02/skos/core#</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div><!-- 語彙表-->
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading">属性</div>
+                <!-- Table -->
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>項目名</th>
+                            <th>RDFの語彙</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>場所の名称</td>
+                            <td>rdfs:label</td>
+                        </tr>
+                        <tr>
+                            <td>はこぶら内で使用されている名称</td>
+                            <td>rdfs:comment</td>
+                        </tr>
+                        <tr>
+                            <td>住所</td>
+                            <td>schema:address</td>
+                        </tr>
+                        <tr>
+                            <td>狭義となる対象（例：「元町配水池」に対する「中区配水池」）</td>
+                            <td>skos:narrower</td>
+                        </tr>
+                        <tr>
+                            <td>竣工年</td>
+                            <td>dc:date</td>
+                        </tr>
+                        <tr>
+                            <td>スポットの概要</td>
+                            <td>dc:description</td>
+                        </tr>
+                        <tr>
+                            <td>建設に関連する人物</td>
+                            <td>dc:creator</td>
+                        </tr>
+                        <tr>
+                            <td>場所や人物に関係する情報</td>
+                            <td>dc:relation</td>
+                        </tr>
+                        <tr>
+                            <td>画像</td>
+                            <td>schema:image</td>
+                        </tr>
+                        <tr>
+                            <td>URL</td>
+                            <td>schema:url</td>
+                        </tr>
+                        <tr>
+                            <td>緯度</td>
+                            <td>geo:lat</td>
+                        </tr>
+                        <tr>
+                            <td>軽度</td>
+                            <td>geo:long</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div><!-- 語彙表-->
+
+            <h3>外国人旅行者向け函館まちあるきルート情報</h3>
+            <p>函館市が提供している外国人旅行者向けまちあるきマップ「<a href="http://www.hakodate.travel/en/basic-information/guide-book/img/hakodate-city-walking-map.pdf">Hakodate City Walking Map</a>」に掲載されているルート情報のRDFデータを作成しました。「Hakodate City Walking Map」とは、函館を訪れる外国人旅行者が函館の街並みを歩きながら楽しむことができるルートを掲載した紙媒体の地図です。</p>
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading">仕様語彙一覧</div>
+
+                <!-- Table -->
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>prefix</th>
+                            <th>name space</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>rdf</td>
+                            <td>http://www.w3.org/1999/02/22-rdf-syntax-ns#</td>
+                        </tr>
+                        <tr>
+                            <td>rdfs</td>
+                            <td>http://www.w3.org/2000/01/rdf-schema#</td>
+                        </tr>
+                        <tr>
+                            <td>geo</td>
+                            <td>http://www.w3.org/2003/01/geo/wgs84_pos#</td>
+                        </tr>
+                        <tr>
+                            <td>schema</td>
+                            <td>http://schema.org/</td>
+                        </tr>
+                        <tr>
+                            <td>dc</td>
+                            <td>http://purl.org/dc/elements/1.1/</td>
+                        </tr>
+                        <tr>
+                            <td>tourMap</td>
+                            <td>http://lod.per.c.fun.ac.jp/hakobura/terms/tourMap#</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div><!-- 語彙表-->
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading">属性</div>
+                <!-- Table -->
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>項目名</th>
+                            <th>RDFの語彙</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>コース名</td>
+                            <td>rdfs:label xml:lang="en"</td>
+                        </tr>
+                        <tr>
+                            <td>所用時間</td>
+                            <td>tourMap:minutesTime</td>
+                        </tr>
+                        <tr>
+                            <td>距離</td>
+                            <td>tourMap:kmDistance</td>
+                        </tr>
+                        <tr>
+                            <td>コース上の観光スポット</td>
+                            <td>dc:relation</td>
+                        </tr>
+                        <tr>
+                            <td>スポット名</td>
+                            <td>rdfs:label</td>
+                        </tr>
+                        <tr>
+                            <td>スポットの概要</td>
+                            <td>schema:description</td>
+                        </tr>
+                        <tr>
+                            <td>緯度</td>
+                            <td>geo:lat</td>
+                        </tr>
+                        <tr>
+                            <td>軽度</td>
+                            <td>geo:long</td>
+                        </tr>
+                        <tr>
+                            <td>ルート番号</td>
+                            <td>tourMap:routeNum</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div><!-- 語彙表-->
+            <h3>函館無料Wi-Fiスポット情報</h3>
+            <p>北海道新幹線新函館開業対策推進機構が公開している「<a href="http://www.shinkansen-hakodate.com/wp-content/uploads/2015/02/201508Hkd_Free_Wi-fi_Guide_map.pdf">【函館市内】無料Wi-Fiスポットガイドマップ</a>」に掲載されている函館市無料Wi-Fiスポット情報のRDFデータを作成しました。このマップは、北海道新幹線新函館開業対策推進機構が作成し、公開している函館市内にある無料Wi-Fiスポットのマップです。</p>
+
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading">仕様語彙一覧</div>
+
+                <!-- Table -->
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>prefix</th>
+                            <th>name space</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>rdf</td>
+                            <td>http://www.w3.org/1999/02/22-rdf-syntax-ns#</td>
+                        </tr>
+                        <tr>
+                            <td>rdfs</td>
+                            <td>http://www.w3.org/2000/01/rdf-schema#</td>
+                        </tr>
+                        <tr>
+                            <td>geo</td>
+                            <td>http://www.w3.org/2003/01/geo/wgs84_pos#</td>
+                        </tr>
+                        <tr>
+                            <td>schema</td>
+                            <td>http://schema.org/</td>
+                        </tr>
+                        <tr>
+                            <td>wifi</td>
+                            <td>http://lod.per.c.fun.ac.jp/hakodate/terms/wifi#</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div><!-- 語彙表-->
+
+            <div class="panel panel-default">
+                <!-- Default panel contents -->
+                <div class="panel-heading">属性</div>
+                <!-- Table -->
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>項目名</th>
+                            <th>RDFの語彙</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>スポット名(日本語)</td>
+                            <td>rdfs:label xml:lang="jp"</td>
+                        </tr>
+                        <tr>
+                            <td>スポット名(英語)</td>
+                            <td>rdfs:label xml:lang="en"</td>
+                        </tr>
+                        <tr>
+                            <td>住所(日本語)</td>
+                            <td>schema:address xml:lang="jp"</td>
+                        </tr>
+                        <tr>
+                            <td>住所(英語)</td>
+                            <td>schema:address xml:lang="en"</td>
+                        </tr>
+                        <tr>
+                            <td>電話番号</td>
+                            <td>schema:telephone</td>
+                        </tr>
+                        <tr>
+                            <td>カテゴリ</td>
+                            <td>schema:category</td>
+                        </tr>
+                        <tr>
+                            <td>SSID</td>
+                            <td>wifi:ssid</td>
+                        </tr>
+                        <tr>
+                            <td>緯度</td>
+                            <td>geo:lat, schema:geo</td>
+                        </tr>
+                        <tr>
+                            <td>軽度</td>
+                            <td>geo:long, schema:geo</td>
+                        </tr>
+                        <tr>
+                            <td>備考</td>
+                            <td>schema:description</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div><!-- 語彙表-->
+
+            <div class="page-header">
+                <h1 id="sparql">SPARQLエンドポイント</h1>
+            </div>
+            <p>本プロジェクトではSPARQLエンドポイントを公開しています。以下のURLです。</p>
+            <a href="http://lod.per.c.fun.ac.jp/test/">http://lod.per.c.fun.ac.jp/test/</a>
+        </div>
+
+    </div>
+
+</div>
+<!-- /.container -->
+
+<div class="container">
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="row">
+            <div class="col-lg-12">
+                <p>Copyright &copy; Your Website 2014</p>
+            </div>
+        </div>
+    </footer>
+
+</div>
+<!-- /.container -->
+
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
