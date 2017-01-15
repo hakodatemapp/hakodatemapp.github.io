@@ -652,31 +652,34 @@
             <h3 id="section-3">データの例</h3>
 
 <div class="highlighter-rouge"><pre class="highlight"><code>&lt;rdf:RDF
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:schema="http://schema.org/"
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-	xmlns:cc="http://creativecommons.org/ns#"&gt;
+@prefix sweet: <http://lod.fun.ac.jp/hakobura/terms/sweet#> .
+@prefix dc: <http://purl.org/dc/terms></http:> .
+@prefix schema: <http://schema.org></http:> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
 
-&lt;rdf:Description rdf:about="http://lod.per.c.fun.ac.jp:8888/＜魚類＞あいなめ 生"&gt;
-	&lt;schema:category&gt;魚介類&lt;/schema:category&gt;
-	&lt;schema:name&gt;＜魚類＞あいなめ 生&lt;/schema:name&gt;
-	&lt;schema:nutrition rdf:parseType="Resource"&gt;
-		&lt;rdf:type rdf:resource="https://schema.org/NutritionInformation"/&gt;
-		&lt;schema:calories&gt;113kcal&lt;/schema:calories&gt;
-		&lt;schema:proteinContent&gt;19.1g&lt;/schema:proteinContent&gt;
-		&lt;schema:saturatedFatContent&gt;3.4g&lt;/schema:saturatedFatContent&gt;
-		&lt;schema:carbohydrateContent&gt;0.1g&lt;/schema:carbohydrateContent&gt;
-		&lt;schema:cholesterolContent&gt;76mg&lt;/schema:cholesterolContent&gt;
-		&lt;schema:fiberContent&gt;(0)g&lt;/schema:fiberContent&gt;
-		&lt;schema:sodiumContent&gt;150mg&lt;/schema:sodiumContent&gt;
-		&lt;schema:unsaturatedFatContent&gt;2.04g&lt;/schema:unsaturatedFatContent&gt;
-		&lt;schema:servingSize&gt;100g&lt;/schema:servingSize&gt;
-	&lt;/schema:nutrition&gt;
-	&lt;schema:url&gt;http://www.mext.go.jp/component/a_menu/science/detail/__icsFiles/afieldfile/2016/03/24/1365344_1-0210r4.xlsx&lt;/schema:url&gt;
-	&lt;cc:attributionName rdf:resource="http://www.mext.go.jp/" dc:title="文部科学省"/&gt;
-&lt;/rdf:Description&gt;
+<urn:000083>
+	sweet:shopname "元祖　大沼だんご　沼の家"@j, "ぬまのや"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161226115555.jpg" ;
+	sweet:shopdescription "明治38年、初代堀口亀吉が「大沼だんご」を製造販売致しました。以来、大沼公園と大沼だんごは100余年の歳月を多くの人々に親しまれてまいりました。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-26" ;
+	sweet:postcode "041-1354" ;
+	schema:address "亀田郡七飯町大沼町145" ;
+	schema:telephone "0138-67-2104" ;
+	schema:openingHoursSpecification "8:00～18:00（売り切れ次第閉店）" ;
+	sweet:closed "無休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000083" ;
+	schema:url "" ;
+	geo:lat "41.9816916" ;
+	geo:long "140.6708495" ;
+	sweet:featuredproductname "大沼だんご"@ja ;
+	sweet:featuredproductprice "小折390円、大折650円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161226115556.jpg" ;
+	sweet:featuredproductdescription "折で大沼湖・小沼湖を表現し、団子を串に刺さないのは湖面に浮かぶ126の島々に見立てています。" .
 
-&lt;/rdf:RDF&gt;
+
 </code></pre>
 </div>
 
