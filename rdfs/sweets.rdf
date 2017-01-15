@@ -1,0 +1,1632 @@
+@prefix sweet: <http://lod.fun.ac.jp/hakobura/terms/sweet#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+<urn:000094>
+	sweet:shopname "お菓子工房　レーヴモンブラン"@j, "おかしこうぼう　れーう゛もんぶらん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20170106103451.jpg" ;
+	sweet:shopdescription "道内各地で修行をして夢だった洋菓子店を平成28年10月にオープンしました。ケーキは約20種類、マドレーヌなどの焼き菓子は約15種類ご用意して皆様のお越しをお待ちしております。" ;
+	sweet:area "北部エリア" ;
+	dc:modified "2017-01-06" ;
+	sweet:postcode "041-0822" ;
+	schema:address "函館市亀田港町63-6" ;
+	schema:telephone "0138-43-7711" ;
+	schema:openingHoursSpecification "10:00～19:00" ;
+	sweet:closed "火曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000094" ;
+	schema:url "" ;
+	geo:lat "41.8138079" ;
+	geo:long "140.7169288" ;
+	sweet:featuredproductname "レーヴロールプレーン、レーヴロールチョコレート"@ja ;
+	sweet:featuredproductprice "プレーン1,080円、チョコ1,180円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20170106103451.jpg" ;
+	sweet:featuredproductdescription "プレーンロールはふわふわ生地のこだわりロールケーキです。クリームにメープルシロップを使用しています。チョコロールは生チョコクリームをふわりと軽い生地で巻きました。どちらもとても食べやすいロールケーキです。" .
+
+<urn:000014>
+	sweet:shopname "プレミアムロール専門店　ガトー・ルーレ宮前店"@j, "ぷれみあむろーるせんもんてん　がとー・るーれみやまえてん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20170104122158.jpg" ;
+	sweet:shopdescription "今までにない味と食感を追究して作り上げたロールケーキ。定番の5種と季節商品2種が毎月発売され、イベント月には限定商品等年間30種類以上の品揃えがあります。ｌ" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2017-01-04" ;
+	sweet:postcode "040-0073" ;
+	schema:address "函館市宮前町25-8メゾン・ド・ソワ1Ｆ" ;
+	schema:telephone "0138-40-9311" ;
+	schema:openingHoursSpecification "10:00～18:00" ;
+	sweet:closed "月曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000014" ;
+	schema:url "http://www.facebook.com/g.roule0518/" ;
+	geo:lat "41.7898455" ;
+	geo:long "140.7383005" ;
+	sweet:featuredproductname "6（シックス）ロール"@ja ;
+	sweet:featuredproductprice "1,944円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161207021515.jpg" ;
+	sweet:featuredproductdescription "人気定番5種（※写真右手前からプレーン、チーズ、ショコラ。写真左手前からマロン、抹茶）に季節商品1品が入った、お得なセット。冷凍タイプは長時間の持ち帰りや発送も出来る。（再冷凍可）" .
+
+<urn:000092>
+	sweet:shopname "プレミアムロール専門店　ガトー・ルーレ函館駅店"@j, "ぷれみあむろーるせんもんてん　がとー・るーれはこだてえきてん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20170104121611.jpg" ;
+	sweet:shopdescription "今までにない味と食感を追究して作り上げたロールケーキ。定番の5種と季節商品2酒が毎月発売されイベント月には限定商品等年間30種類以上の品揃えがあります。ロールケーキの素材で焼き上げた「函館窯出しドーナツ」「デュオショコラ」等、焼菓子も充実しています。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2017-01-04" ;
+	sweet:postcode "040-0063" ;
+	schema:address "函館市若松町12-13JR函館駅構内1階" ;
+	schema:telephone "0138-84-5488" ;
+	schema:openingHoursSpecification "8:00～20:00" ;
+	sweet:closed "無休 ※函館駅前広場駐車場の場合 入庫から30分まで無料" ;
+	sweet:parking "有料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000092" ;
+	schema:url "http://www.facebook.com/g.roule0518/" ;
+	geo:lat "41.77378" ;
+	geo:long "140.726474" ;
+	sweet:featuredproductname "新幹線カラー3色ルーレ"@ja ;
+	sweet:featuredproductprice "1,080円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20170104121612.jpg" ;
+	sweet:featuredproductdescription "新幹線カラーをイメージしたホワイト（チーズ）グリーン（抹茶）パープル（ブルーベリー）の3色をセットした限定商品。冷凍タイプもあるので土産や地方発送も可。（再冷凍可）" .
+
+<urn:000093>
+	sweet:shopname "四季の洋菓子　キャトルセゾン"@j, "しきのようがし　きゃとるせぞん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20170111113204.png" ;
+	sweet:shopdescription "自然に囲まれた工房で無添加原料を使用し、昔からあるアンティークなケーキをつくっているお店です。1番人気の『シュークリーム』をはじめ、約15種類のケーキと焼き菓子をご用意しております。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2017-01-04" ;
+	sweet:postcode "041-1111" ;
+	schema:address "亀田郡七飯町本町8-17-17" ;
+	schema:telephone "0138-84-8414" ;
+	schema:openingHoursSpecification "10:30～18:30" ;
+	sweet:closed "木曜日（※最終木曜日・祝日は営業） ※駐車場2台可" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000093" ;
+	schema:url "http://quatresaisons-7e.com/" ;
+	geo:lat "41.8998665" ;
+	geo:long "140.6990603" ;
+	sweet:featuredproductname "100円シュークリーム"@ja ;
+	sweet:featuredproductprice "100円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20170111113205.png" ;
+	sweet:featuredproductdescription "クリームは基本を守り、良い素材を使用し丁寧に、真面目に…。発売以来試行錯誤を重ね、誰からも「美味しい!!」と誉めていただける商品にたどり着きました。当店自慢の１品です！ぜひご賞味ください!!" .
+
+<urn:000081>
+	sweet:shopname "珈琲焙煎工房　函館美鈴　大門店"@j, "こーひーばいせんこうぼう　はこだてみすず　だいもんてん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161228022203.jpg" ;
+	sweet:shopdescription "昭和21年、函館駅前大門地区に鈴木商店直営の喫茶店を開業。店名を函館市民から一般公募し、美鈴と命名。美鈴直営店第1号店。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-12-28" ;
+	sweet:postcode "040-0035" ;
+	schema:address "函館市松風町7-1" ;
+	schema:telephone "0138-23-7676" ;
+	schema:openingHoursSpecification "10:00～19:00（焙煎時間10:00～18:00）" ;
+	sweet:closed "無休" ;
+	sweet:parking "なし" ;
+	sweet:eatin "あり" ;
+	sweet:id "000081" ;
+	schema:url "http://www.misuzucoffee.com" ;
+	geo:lat "41.7722263" ;
+	geo:long "140.7301546" ;
+	sweet:featuredproductname "珈琲焼菓子（15枚入り）"@ja ;
+	sweet:featuredproductprice "700円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161228022203.jpg" ;
+	sweet:featuredproductdescription "老舗珈琲店、美鈴コーヒーの珈琲焼菓子を作りました。あたたかく懐かしい味をどうぞご賞味ください。" .
+
+<urn:000073>
+	sweet:shopname "菓匠　一福"@j, "かしょう　いちふく"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161226115814.jpg" ;
+	sweet:shopdescription "焼き菓子や羊羹、上生菓子からロールケーキまで和洋の商品を取り揃えております。中華まんじゅう、どら焼き、あきあじ最中などが人気です。創業は100年になります。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-27" ;
+	sweet:postcode "049-0281" ;
+	schema:address "北斗市茂辺地2-5-54" ;
+	schema:telephone "0138-75-2035" ;
+	schema:openingHoursSpecification "8:00～19:00" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "" ;
+	sweet:id "000073" ;
+	schema:url "" ;
+	geo:lat "41.7648872" ;
+	geo:long "140.6043604" ;
+	sweet:featuredproductname "トマト羊羹"@ja ;
+	sweet:featuredproductprice "864円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161226115815.jpg" ;
+	sweet:featuredproductdescription "北斗市産のトマトを100％使用した、ちょっぴりフルーティーな羊かんです。全国的にもめずらしいです。" .
+
+<urn:000070>
+	sweet:shopname "スイーツカフェ　カロメリア"@j, "すいーつかふぇ　かろめりあ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161228023957.jpg" ;
+	sweet:shopdescription "道産素材にこだわり、甘さ控えめに仕上げた笑顔を届けるスイーツ作りをめざしています。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2016-12-27" ;
+	sweet:postcode "040-0005" ;
+	schema:address "函館市人見町5-54" ;
+	schema:telephone "0138-32-5060" ;
+	schema:openingHoursSpecification "10:00～19:00（日曜日は18:00まで）" ;
+	sweet:closed "月曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000070" ;
+	schema:url "mailto:info@caromelia.com" ;
+	geo:lat "41.7815846" ;
+	geo:long "140.758044" ;
+	sweet:featuredproductname "カロメリパイ"@ja ;
+	sweet:featuredproductprice "230円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161228023958.jpg" ;
+	sweet:featuredproductdescription "発酵バターを使用し、北海道産生クリームとカスタードを入れたサクサクパイ。" .
+
+<urn:000088>
+	sweet:shopname "菓子舗　喜夢良七飯町本店"@j, "かしほ　きむらななえちょうほんてん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161227104720.jpg" ;
+	sweet:shopdescription "地元の作物・歴史・文化を基にお菓子創りをしています。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-27" ;
+	sweet:postcode "041-1111" ;
+	schema:address "亀田郡七飯町本町4ｰ5-20" ;
+	schema:telephone "0138-65-3571" ;
+	schema:openingHoursSpecification "8:30～19:00" ;
+	sweet:closed "不定休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000088" ;
+	schema:url "http://www.kimurakashiho.com/" ;
+	geo:lat "41.8964417" ;
+	geo:long "140.6910751" ;
+	sweet:featuredproductname "七飯アップルチョコレート"@ja ;
+	sweet:featuredproductprice "216円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161227104721.jpg" ;
+	sweet:featuredproductdescription "日本で初めて西洋リンゴの栽培が行われた地、七飯町。その七飯のリンゴがたっぷりと入ったかわいいお菓子です。" .
+
+<urn:000089>
+	sweet:shopname "菓子舗　喜夢良若松町菓寮"@j, "かしほ　きむらわかまつちょうかりょう"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161227110540.jpg" ;
+	sweet:shopdescription "地元の作物・歴史・文化を基にお菓子の創作を目指しています。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-12-27" ;
+	sweet:postcode "040-0063" ;
+	schema:address "函館市若松町28-14" ;
+	schema:telephone "0138-27-2221" ;
+	schema:openingHoursSpecification "10:00～18:00" ;
+	sweet:closed "火曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000089" ;
+	schema:url "http://www.kimurakashiho.com/" ;
+	geo:lat "41.7761399" ;
+	geo:long "140.7306099" ;
+	sweet:featuredproductname "土方歳三　尚武最中"@ja ;
+	sweet:featuredproductprice "135円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161227110540.jpg" ;
+	sweet:featuredproductdescription "試衛館で近藤勇・沖田総司と稽古に打ち込んでいたことを思い、鍔型のお菓子を創りました。" .
+
+<urn:000090>
+	sweet:shopname "焼き菓子の店　moriko"@j, "やきがしのみせ　もりこ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161227120501.jpg" ;
+	sweet:shopdescription "小さなお店で焼き菓子、タルト、スコーン、キッシュなどを焼いています。季節のコンフィチュールもあります。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2016-12-27" ;
+	sweet:postcode "040-0011" ;
+	schema:address "函館市本町35-9" ;
+	schema:telephone "0138-83-5730" ;
+	schema:openingHoursSpecification "11:30～18:00" ;
+	sweet:closed "日・月・火曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000090" ;
+	schema:url "http://kr55lemoncake.jugem.jp/" ;
+	geo:lat "41.78609" ;
+	geo:long "140.752591" ;
+	sweet:featuredproductname "チョコクグロフ"@ja ;
+	sweet:featuredproductprice "1,350円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161227120502.jpg" ;
+	sweet:featuredproductdescription "くるみ入りのマーブルケーキにチョコレートをかけたお菓子です。" .
+
+<urn:000091>
+	sweet:shopname "ボーバンベーク"@j, "ぼーばんべーく"@ja-Hira ;
+	sweet:shopimage "" ;
+	sweet:shopdescription "" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-27" ;
+	sweet:postcode "049-0161" ;
+	schema:address "北斗市飯生3-4-9" ;
+	schema:telephone "0138-73-5801" ;
+	schema:openingHoursSpecification "8:30～18:00（なくなり次第閉店）" ;
+	sweet:closed "月曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000091" ;
+	schema:url "" ;
+	geo:lat "41.8182043" ;
+	geo:long "140.6395515" ;
+	sweet:featuredproductname "道産小麦食パン（春よ恋100%）"@ja ;
+	sweet:featuredproductprice "900円" ;
+	sweet:featuredproductimage "" ;
+	sweet:featuredproductdescription "" .
+
+<urn:000011>
+	sweet:shopname "たいやき茶屋　北菓り"@j, "たいやきちゃや　ほっかり"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830040341.jpg" ;
+	sweet:shopdescription "函館朝市内にある、たいやき店。生地の美味しさにこだわり、ハネ付きに仕上げています。定番の甘さ控えめの粒あん等のほか、北海道産のリンゴやじゃがいもを使ったオリジナルのたい焼きが人気です。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-12-26" ;
+	sweet:postcode "040-0063" ;
+	schema:address "函館市若松町11－10（函館朝市内）" ;
+	schema:telephone "0138-84-1998" ;
+	schema:openingHoursSpecification "10:00～19:00" ;
+	sweet:closed "水曜日（祝日の場合翌日休）" ;
+	sweet:parking "なし" ;
+	sweet:eatin "なし" ;
+	sweet:id "000011" ;
+	schema:url "" ;
+	geo:lat "41.7717568" ;
+	geo:long "140.7264132" ;
+	sweet:featuredproductname "りんごとクリームのたい焼き"@ja ;
+	sweet:featuredproductprice "200円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130830040341.jpg" ;
+	sweet:featuredproductdescription "コンポートした北海道産リンゴとカスタードクリームに、シナモンを振りかけて、アップルパイのような味に仕上げました。他に、地物のじゃがいもとチーズを合わせた「じゃがいもとチーズのたい焼（200円）」も人気です。" .
+
+<urn:000083>
+	sweet:shopname "元祖　大沼だんご　沼の家"@j, "ぬまのや"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161226115555.jpg" ;
+	sweet:shopdescription "明治38年、初代堀口亀吉が「大沼だんご」を製造販売致しました。以来、大沼公園と大沼だんごは100余年の歳月を多くの人々に親しまれてまいりました。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-26" ;
+	sweet:postcode "041-1354" ;
+	schema:address "亀田郡七飯町大沼町145" ;
+	schema:telephone "0138-67-2104" ;
+	schema:openingHoursSpecification "8:00～18:00（売り切れ次第閉店）" ;
+	sweet:closed "無休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000083" ;
+	schema:url "" ;
+	geo:lat "41.9816916" ;
+	geo:long "140.6708495" ;
+	sweet:featuredproductname "大沼だんご"@ja ;
+	sweet:featuredproductprice "小折390円、大折650円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161226115556.jpg" ;
+	sweet:featuredproductdescription "折で大沼湖・小沼湖を表現し、団子を串に刺さないのは湖面に浮かぶ126の島々に見立てています。" .
+
+<urn:000082>
+	sweet:shopname "御菓子処　ひとつ風"@j, "ひとつかぜ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161222094431.jpg" ;
+	sweet:shopdescription "杉並電停から徒歩1分電車道路沿いにあります。地産地消を心掛け季節を感じて頂ける様な菓子を御用意しております。季節行事の楽しい物もございます。特別注文も気軽に御相談下さい。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2016-12-22" ;
+	sweet:postcode "040-0003" ;
+	schema:address "函館市松陰町8-1" ;
+	schema:telephone "0138-54-8977" ;
+	schema:openingHoursSpecification "9:00～18:30" ;
+	sweet:closed "水曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000082" ;
+	schema:url "" ;
+	geo:lat "41.7887202" ;
+	geo:long "140.7598018" ;
+	sweet:featuredproductname "古代もち"@ja ;
+	sweet:featuredproductprice "320円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161222094432.jpg" ;
+	sweet:featuredproductdescription "道南、福島町産の黒米「北のむらさき」使用の餅菓子です。体に必要なカルシウムやビタミン群が多くカロリーが低いのも特徴です。焦がし黄な粉をまぶしてあり、味にはコクが、香りには深みがあります。" .
+
+<urn:000087>
+	sweet:shopname "函館酪農公社　あいす１１８"@j, "はこだてらくのうこうしゃ　あいすいちいちはち"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161221104907.jpg" ;
+	sweet:shopdescription "函館牛乳の工場敷地内にあるキャンピングカーの小さなお店、あいす１１８では、牛乳本来の味、栄養をそこなわないように、必要最小限しか手を加えていないソフトクリームやチーズなどの乳製品を直売しています。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2016-12-21" ;
+	sweet:postcode "042-0912" ;
+	schema:address "函館市中野町118-17" ;
+	schema:telephone "0138-58-4460" ;
+	schema:openingHoursSpecification "（4、10月）9:30～17:00 （5、6、9月）9:00～17:00（7、8月）9:00～18:00 （冬期）10:00～16:00" ;
+	sweet:closed "（4～10月）無休 　　　　　　　　（11月～3月）水曜日、年末年始" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000087" ;
+	schema:url "http://www.e-milk.co.jp" ;
+	geo:lat "41.7726084" ;
+	geo:long "140.8404847" ;
+	sweet:featuredproductname "ソフトクリーム各種"@ja ;
+	sweet:featuredproductprice "300円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161221104907.jpg" ;
+	sweet:featuredproductdescription "新鮮な牛乳と卵をたっぷり使用した無添加のソフトクリームは牛乳メーカーならではの味。" .
+
+<urn:000074>
+	sweet:shopname "ホームメイドアイスクリーム＆シャーベット冨士冷菓"@j, "ふじれいか"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161220043559.jpg" ;
+	sweet:shopdescription "1947年創業のアイスクリーム＆シャーベット専門店。北海道の新鮮な牛乳、生クリーム、天然の素材を基本に作られています。容器はシンプルに、素材にこだわったアイスクリームです。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-12-20" ;
+	sweet:postcode "040-0034" ;
+	schema:address "函館市大森町18-15" ;
+	schema:telephone "0138-22-3819" ;
+	schema:openingHoursSpecification "10:00～19:00　※11月～4月は18:00閉店" ;
+	sweet:closed "木曜日" ;
+	sweet:parking "なし" ;
+	sweet:eatin "あり" ;
+	sweet:id "000074" ;
+	schema:url "mailto:ice-cream@fujireika.com" ;
+	geo:lat "41.7697461" ;
+	geo:long "140.7349371" ;
+	sweet:featuredproductname "獺祭　酒粕あいす"@ja ;
+	sweet:featuredproductprice "330円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161220043559.jpg" ;
+	sweet:featuredproductdescription "人気の純米大吟醸「獺祭」のしぼりたて酒粕を使ったアイスクリーム。カップには獺祭のロゴが入り、蔵元や獺祭ストアでも販売されております。" .
+
+<urn:000043>
+	sweet:shopname "いなふね菓子舗"@j, "いなふねかしほ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161215121029.jpg" ;
+	sweet:shopdescription "お餅からあられまで、和菓子各種がバラエティに揃う。手づくりのあんこが、甘すぎず美味しい。よもぎを使った和菓子が人気で、特に、よもぎまふぃん、よもぎのべこ餅は好評です。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2016-12-20" ;
+	sweet:postcode "041-0843" ;
+	schema:address "函館市花園町37-34" ;
+	schema:telephone "0138-51-5313" ;
+	schema:openingHoursSpecification "9:00～19:00" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "なし" ;
+	sweet:eatin "なし" ;
+	sweet:id "000043" ;
+	schema:url "" ;
+	geo:lat "41.7958201" ;
+	geo:long "140.7805562" ;
+	sweet:featuredproductname "五稜の里"@ja ;
+	sweet:featuredproductprice "129円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130829042505.jpg" ;
+	sweet:featuredproductdescription "甘さを抑えた白あんと、ミルクとバターの風味が決め手の焼菓子！" .
+
+<urn:000086>
+	sweet:shopname "はこだて甘納豆　石黒商店"@j, "はこだてあまなっとう　いしぐろしょうてん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161220042306.jpg" ;
+	sweet:shopdescription "函館唯一の甘納豆製造販売店です。着色料、保存料を使用せず甘さも抑えてますので賞味期限は14日と短めですが11種類それぞれの風味の違いを感じられます。他にゆきうさぎモナカ、花み餅等もございます。" ;
+	sweet:area "北部エリア" ;
+	dc:modified "2016-12-20" ;
+	sweet:postcode "041-0812" ;
+	schema:address "函館市昭和2-11-2" ;
+	schema:telephone "0138-41-0839" ;
+	schema:openingHoursSpecification "9:30～17:30" ;
+	sweet:closed "水曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000086" ;
+	schema:url "http://www.amanattou.com/" ;
+	geo:lat "41.8097646" ;
+	geo:long "140.7360775" ;
+	sweet:featuredproductname "たま福来枝豆甘納豆"@ja ;
+	sweet:featuredproductprice "864円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161220042306.jpg" ;
+	sweet:featuredproductdescription "タマフクラ大豆の枝豆を手作業で莢から一粒づつ豆を取り出し枝豆の食感と風味を残す為、他の甘納豆より少し硬めですがご賞味いただければ他では、味わえない「納得、満足」を感じていただけると思います。" .
+
+<urn:000085>
+	sweet:shopname "もりまちのパンやさん　たむら"@j, "もちまちのぱんやさん　たむら"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161220040835.jpg" ;
+	sweet:shopdescription "もりまち国道5号線沿いにある工場兼店舗では、地元のお客様、遠方のお客様に好評いただいております。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-19" ;
+	sweet:postcode "049-2311" ;
+	schema:address "茅部郡森町字上台町326-91" ;
+	schema:telephone "01374-7-1617" ;
+	schema:openingHoursSpecification "7:00～19:00（日・祝18:00まで）" ;
+	sweet:closed "第2火曜日、小学校運動会の日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000085" ;
+	schema:url "https://www.facebook.com/214577812298228/" ;
+	geo:lat "42.0967571" ;
+	geo:long "140.5712787" ;
+	sweet:featuredproductname "ホタテカレーパン"@ja ;
+	sweet:featuredproductprice "335円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161220040836.jpg" ;
+	sweet:featuredproductdescription "噴火湾産のホタテを贅沢に使ったカレーパン。スパイシーなルーとサクッとしたパン生地がクセになる美味しさ。" .
+
+<urn:000033>
+	sweet:shopname "ティーサロン　マーブル"@j, "てぃーさろん　まーぶる"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130901023618.jpg" ;
+	sweet:shopdescription "パティシエ特製オリジナルスイーツが楽しめるエレガントなホテルラウンジ" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-12-19" ;
+	sweet:postcode "040-0063" ;
+	schema:address "函館市若松町14-10フォーポイントバイシェラトン函館1Ｆ" ;
+	schema:telephone "0138-22-0111" ;
+	schema:openingHoursSpecification "10:00～18:00" ;
+	sweet:closed "無休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000033" ;
+	schema:url "http://premierhotel-group.com/hakodate/" ;
+	geo:lat "41.7728261" ;
+	geo:long "140.7264464" ;
+	sweet:featuredproductname "ケーキセット（御注文のドリンクにより値段変更あり）"@ja ;
+	sweet:featuredproductprice "700～円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130901023618.jpg" ;
+	sweet:featuredproductdescription "ＪＲ函館駅前のフォーポイントバイシェラトン（旧ロワジールホテル）函館１階にあるティーラウンジ。女性パティシエがつくる季節ごとのスイーツをお楽しみいただけます。憩いのひとときはもちろん、お待ち合わせやご商談にもご利用ください。" .
+
+<urn:000045>
+	sweet:shopname "函館　凮月堂"@j, "はこだて　ふうげつどう"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830033541.jpg" ;
+	sweet:shopdescription "季節に合わせた旬の素材を使った、お菓子をお客様に提供できる様、心掛けております。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2016-12-19" ;
+	sweet:postcode "040-0081" ;
+	schema:address "函館市田家町7-23" ;
+	schema:telephone "0138-40-9533" ;
+	schema:openingHoursSpecification "9:30～19:30" ;
+	sweet:closed "不定休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000045" ;
+	schema:url "" ;
+	geo:lat "41.7995324" ;
+	geo:long "140.7499058" ;
+	sweet:featuredproductname "苺の生ロール"@ja ;
+	sweet:featuredproductprice "1,200円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130830033541.jpg" ;
+	sweet:featuredproductdescription "ケーキ、焼菓子、マカロン等、数多く取り扱っています。春は〝桜のケーキ〟夏は〝桃のタルト〟秋冬は〝アップルパイ〟等、季節に合わせた旬の素材を使うお菓子作りをしています。" .
+
+<urn:000049>
+	sweet:shopname "函館国際ホテル　モンモランシー"@j, "はこだてこくさいほてる　もんもらんしー"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161216035531.jpg" ;
+	sweet:shopdescription "ホテルオリジナルの焼き立てパンは、食パンやデニッシュ、菓子パン等の豊富な品揃え。季節感のあるケーキをはじめバースデーケーキ等の予約も承ります。また、ギフトにも最適な焼き菓子も取り揃えています。 写真は" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-12-16" ;
+	sweet:postcode "040-0064" ;
+	schema:address "函館市大手町5-10" ;
+	schema:telephone "0138-23-5151" ;
+	schema:openingHoursSpecification "7:30～20:00 （パン11:00～、ケーキ10:00～無くなり次第終了）" ;
+	sweet:closed "無休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000049" ;
+	schema:url "http://www.hakodate-kokusai.jp" ;
+	geo:lat "41.769556" ;
+	geo:long "140.722275" ;
+	sweet:featuredproductname "和栗のモンブラン"@ja ;
+	sweet:featuredproductprice "450円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161206024806.jpg" ;
+	sweet:featuredproductdescription "サックリと軽い食感の焼きメレンゲの上に和栗のクリームをたっぷりと乗せた贅沢なモンブランです。" .
+
+<urn:000038>
+	sweet:shopname "スウィーツギャラリー北じま"@j, "すうぃーつぎゃらりーきたじま"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161215124158.jpg" ;
+	sweet:shopdescription "スウィーツギャラリー北じまは、変わらぬ味・新しい味など豊富な品揃えでお客様を楽しませます。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-15" ;
+	sweet:postcode "049-0422" ;
+	schema:address "上磯郡木古内町字本町330-4" ;
+	schema:telephone "01392-2-2209" ;
+	schema:openingHoursSpecification "9:00～19:00" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000038" ;
+	schema:url "http://kitajima-pan.com" ;
+	geo:lat "41.6771528" ;
+	geo:long "140.4352183" ;
+	sweet:featuredproductname "箱館塩かすてら　箱館二十間坂ばうむ"@ja ;
+	sweet:featuredproductprice "1,260　840円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130829033011.jpg" ;
+	sweet:featuredproductdescription "スウィーツギャラリー北じまは,工場直営でパン・和菓子・洋菓子といった多彩なスイーツの品数を揃えております。中でも一番のおすすめが箱館塩かすてらと箱館二十間坂ばうむが人気スイーツとなっております。" .
+
+<urn:000042>
+	sweet:shopname "(有)龍栄堂"@j, "りゅうえいどう"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130901024532.jpg" ;
+	sweet:shopdescription "函館と共に歩んで87年。当地で皆様に親しまれております。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2016-12-15" ;
+	sweet:postcode "040-0031" ;
+	schema:address "函舘市上新川町6-7" ;
+	schema:telephone "0138-45-1872" ;
+	schema:openingHoursSpecification "9:00～19:00（日曜日・祝日18:00まで）" ;
+	sweet:closed "水曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000042" ;
+	schema:url "" ;
+	geo:lat "41.7805758" ;
+	geo:long "140.7368954" ;
+	sweet:featuredproductname "箱館奉行所最中"@ja ;
+	sweet:featuredproductprice "150円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130829042138.jpg" ;
+	sweet:featuredproductdescription "上新川町本店を含め市内4店舗で営業しております。函館銘菓の販売はもちろんのこと、季節の和洋菓子や冠婚葬祭用の引菓子、餅菓子等、巾広く如何様にもご調整致します。" .
+
+<urn:000050>
+	sweet:shopname "パティスリー　ショコラティエ　シュウェットカカオ"@j, "ぱてぃすりー　しょこらてぃえ　しゅうぇっとかかお"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161215095748.jpg" ;
+	sweet:shopdescription "函館五稜郭の近郊にお店を構える道内屈指のチョコレート専門店。ケーキや焼き菓子、アイスクリームなど、たくさんのお菓子を取り揃えて皆様をお迎えします。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2016-12-15" ;
+	sweet:postcode "040-0015" ;
+	schema:address "函館市梁川町27-16" ;
+	schema:telephone "0138-33-5766" ;
+	schema:openingHoursSpecification "10:00～20:00" ;
+	sweet:closed "木曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000050" ;
+	schema:url "http://chouette-cacao.com/" ;
+	geo:lat "41.7943277" ;
+	geo:long "140.7485133" ;
+	sweet:featuredproductname "ボンボンショコラ各種"@ja ;
+	sweet:featuredproductprice "190円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161215095749.jpg" ;
+	sweet:featuredproductdescription "原材料のカカオ本来の香りを引き立てる様、一粒一粒手作りしたこだわりのチョコレート。" .
+
+<urn:000052>
+	sweet:shopname "Short Berry (ショートベリー)"@j, "しょーとべりー"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830031720.jpg" ;
+	sweet:shopdescription "安心安全な北海道のおいしい食材を中心に使用して、一つ一つ丁寧に作っています。" ;
+	sweet:area "北部エリア" ;
+	dc:modified "2016-12-15" ;
+	sweet:postcode "041-0801" ;
+	schema:address "函館市桔梗町418-112" ;
+	schema:telephone "0138-87-0500" ;
+	schema:openingHoursSpecification "10:00～19:00" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000052" ;
+	schema:url "" ;
+	geo:lat "41.8348699" ;
+	geo:long "140.7353764" ;
+	sweet:featuredproductname "ショートベリー"@ja ;
+	sweet:featuredproductprice "300円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130830031720.jpg" ;
+	sweet:featuredproductdescription "子供から大人まで幅広い年齢層に対応したバースディケーキ・生ケーキ・焼菓子・ギフト商品など、多数ご用意しています。濃厚な味わいながら甘すぎず最後までサッパリとしたソフトもおススメです。" .
+
+<urn:000055>
+	sweet:shopname "五勝手屋本舗"@j, "ごかってやほんぽ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130831075114.jpg" ;
+	sweet:shopdescription "毎月季節の和生菓子が新しくなり、人生の節目毎にお使い頂ける和菓子を多種用意。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-15" ;
+	sweet:postcode "043-0043" ;
+	schema:address "桧山郡江差町本町38" ;
+	schema:telephone "0139-52-0022" ;
+	schema:openingHoursSpecification "8:00～19:00" ;
+	sweet:closed "無休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000055" ;
+	schema:url "http://www.gokatteya.co.jp/" ;
+	geo:lat "41.8643843" ;
+	geo:long "140.1256909" ;
+	sweet:featuredproductname "五勝手屋　丸缶羊かん"@ja ;
+	sweet:featuredproductprice "270円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130831075114.jpg" ;
+	sweet:featuredproductdescription "いにしえの刻より、変わらぬ味を守り続ける五勝手屋は、その昔、紋菓をつくって藩公に献上したのがはじまりです。明治3年に至って、長い伝統と累代の苦心を込めて練り上げた秘伝の羊かんを販売することとなりました。" .
+
+<urn:000084>
+	sweet:shopname "厚沢部菓子工房KURAYA"@j, "あっさぶかしこうぼうくらや"@ja-Hira ;
+	sweet:shopimage "" ;
+	sweet:shopdescription "" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-15" ;
+	sweet:postcode "043-1114" ;
+	schema:address "桧山郡厚沢部町本町90-2" ;
+	schema:telephone "0139-64-3103" ;
+	schema:openingHoursSpecification "8:00～19:00" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000084" ;
+	schema:url "" ;
+	geo:lat "41.9172123" ;
+	geo:long "140.224028" ;
+	sweet:featuredproductname "黒豆ロール"@ja ;
+	sweet:featuredproductprice "1本550円" ;
+	sweet:featuredproductimage "" ;
+	sweet:featuredproductdescription "厚沢部特産の光黒大豆を8時間かけて炊いてコーヒー風味のしっとりスポンジとバタークリームで仕上げたロールケーキです。" .
+
+<urn:000010>
+	sweet:shopname "パティスリー　ジョリクレール"@j, "ぱてぃすりー　じょりくれーる"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130827040316.jpg" ;
+	sweet:shopdescription "当店は雄大な自然が広がる「北海道・北斗市」にある洋菓子専門店です。パティシエ自慢の季節感・旬感を大事にした創作スイーツを多数取り揃えております。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-14" ;
+	sweet:postcode "049-0162" ;
+	schema:address "北斗市中央2-1-5" ;
+	schema:telephone "0138-73-0370" ;
+	schema:openingHoursSpecification "0138-73-4013" ;
+	sweet:closed "10:00～20:00" ;
+	sweet:parking "無休" ;
+	sweet:eatin "無料あり" ;
+	sweet:id "000010" ;
+	schema:url "mailto:info@hokuto-jolicreer.com" ;
+	geo:lat "41.821807" ;
+	geo:long "140.6521807" ;
+	sweet:featuredproductname "もちもちシュー"@ja ;
+	sweet:featuredproductprice "140円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130827040317.jpg" ;
+	sweet:featuredproductdescription "北斗市産「ふっくりんこ」の米粉を皮に使用したしっとり・もちもちなシュークリームです。持つとずっしりと重さを感じられるくらいにクリームたっぷりと詰めています。" .
+
+<urn:000024>
+	sweet:shopname "大黒屋菓子店"@j, "だいこくやかしてん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161207021645.jpg" ;
+	sweet:shopdescription "食べて、ホッとするお菓子。食べて、笑顔になるお菓子。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-14" ;
+	sweet:postcode "049-0161" ;
+	schema:address "北斗市飯生2-8-4" ;
+	schema:telephone "0138-73-3152" ;
+	schema:openingHoursSpecification "9:00～19:30" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "なし" ;
+	sweet:eatin "なし" ;
+	sweet:id "000024" ;
+	schema:url "" ;
+	geo:lat "41.819113" ;
+	geo:long "140.641212" ;
+	sweet:featuredproductname "峩朗の月(ズコットチーズケーキ)"@ja ;
+	sweet:featuredproductprice "１,000円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161207021645.jpg" ;
+	sweet:featuredproductdescription "昭和28年創業。北斗市、上磯駅前商店街で焼き菓子を中心に、和洋菓子製造販売をしています。" .
+
+<urn:000040>
+	sweet:shopname "洋菓子　サロンド・テ・シュクル"@j, "ようがし　さろんど・て・しゅくる"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130829040015.jpg" ;
+	sweet:shopdescription "一つ一つの商品に小さな “いいこと”を積みかさねて大きな良い物を造っていきたい。" ;
+	sweet:area "北部エリア" ;
+	dc:modified "2016-12-14" ;
+	sweet:postcode "041-1111" ;
+	schema:address "亀田郡七飯町本町4丁目23-1" ;
+	schema:telephone "0138-64-0755" ;
+	schema:openingHoursSpecification "9:00～19:20（日曜日19:00まで）" ;
+	sweet:closed "月曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000040" ;
+	schema:url "" ;
+	geo:lat "41.8939836" ;
+	geo:long "140.6880088" ;
+	sweet:featuredproductname "タルト・フレーズ"@ja ;
+	sweet:featuredproductprice "330円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130829040015.jpg" ;
+	sweet:featuredproductdescription "三角屋根と縦長の建物の店内には、細やかなデコレーションを施したケーキやバースデーケーキ。ギフトやお茶うけに選べる焼菓子＆クッキー達。数は限られていますが、食パンも毎朝焼いてます。" .
+
+<urn:000062>
+	sweet:shopname "パティスリー　バイゲツ"@j, "ぱてぃすりー　ばいげつ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830040617.jpg" ;
+	sweet:shopdescription "住宅街にある小さなお店です。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2016-12-14" ;
+	sweet:postcode "041-0805" ;
+	schema:address "函館市赤川1-4-16" ;
+	schema:telephone "0138-46-7238" ;
+	schema:openingHoursSpecification "10:00～20:00" ;
+	sweet:closed "月曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000062" ;
+	schema:url "http://patisserie-baigetsu.com/" ;
+	geo:lat "41.8232915" ;
+	geo:long "140.7613558" ;
+	sweet:featuredproductname "アップルパイ"@ja ;
+	sweet:featuredproductprice "162円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130829060903.jpg" ;
+	sweet:featuredproductdescription "毎日朝に焼きあがるアップルパイとクロワッサンが人気です。季節ごとにメニューがかわるショートケーキ類も日々研究しています。" .
+
+<urn:000037>
+	sweet:shopname "和創菓ひとひら（株式会社吉田食品）"@j, "わそうかひとひら（かぶしきかいしゃよしだしょくひん）"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161209023405.jpg" ;
+	sweet:shopdescription "平成28年3月の新幹線開業に合わせてオープンしたヨシダのお菓子本店「和創菓ひとひら」です。工場併設店舗ならではの、こだわりのお菓子と店内でお菓子を楽しめるイートインコーナーもあります。" ;
+	sweet:area "北部エリア" ;
+	dc:modified "2016-12-09" ;
+	sweet:postcode "041-0824" ;
+	schema:address "函館市西桔梗町851-13" ;
+	schema:telephone "0138-83-6668" ;
+	schema:openingHoursSpecification "9:00～19:00" ;
+	sweet:closed "無休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000037" ;
+	schema:url "http://o-kashi-yoshida.com/" ;
+	geo:lat "41.8201138" ;
+	geo:long "140.7170782" ;
+	sweet:featuredproductname "ひとめぐりバウム　チーズイン"@ja ;
+	sweet:featuredproductprice "270円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161209023406.jpg" ;
+	sweet:featuredproductdescription "人気の「はーどくーへん」の中に北海道産のクリームを使った生地を流して焼き込んだ濃厚な焼菓子です。" .
+
+<urn:000036>
+	sweet:shopname "キングベーク"@j, "きんぐべーく"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161206092623.jpg" ;
+	sweet:shopdescription "昭和4年創業の老舗ベーカリー。道産小麦やバターなど原材料にこだわり、安心・安全な商品作りがモットー。焼きたてパンやケーキ・プリン等のスイーツを販売する他、併設のカフェスペースで軽食も楽しめる。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2016-12-06" ;
+	sweet:postcode "041-0813" ;
+	schema:address "函館市亀田本町7-8" ;
+	schema:telephone "0138-45-0963" ;
+	schema:openingHoursSpecification "7:00～21:00" ;
+	sweet:closed "無休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000036" ;
+	schema:url "" ;
+	geo:lat "41.8029349" ;
+	geo:long "140.7392804" ;
+	sweet:featuredproductname "ショコラサブレ（6枚入り）"@ja ;
+	sweet:featuredproductprice "800円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161206092623.jpg" ;
+	sweet:featuredproductdescription "道産小麦「春よ恋」全粒粉とバターをふんだんに使用した、口当たりの良いサブレ。素材本来の風味豊かな生地は、厳選ビターチョコのトッピングとも相性◎。優しい甘さとほろほろ砕ける食感が、幅広い世代で人気に。" .
+
+<urn:000080>
+	sweet:shopname "ラッキーピエロ　マリーナ末広店"@j, "らっきーぴえろ　まりーなすえひろてん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161206112732.jpg" ;
+	sweet:shopdescription "金森赤レンガ倉庫群そばの海上レストラン。海の景色がご馳走、ゆったりゆっくり154席。お客様においしく・楽しい・幸せな一時を過ごしていただくことを願っております。 ※ラッキーピエロは函館市内、近郊13店舗。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-12-06" ;
+	sweet:postcode "040-0053" ;
+	schema:address "函館市末広町14-17" ;
+	schema:telephone "0138-27-5000" ;
+	schema:openingHoursSpecification "10:00～24:30（土曜日のみ25:30まで）" ;
+	sweet:closed "無休 ※契約駐車場30分無料" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000080" ;
+	schema:url "http://luckypierrot.jp/" ;
+	geo:lat "41.7668653" ;
+	geo:long "140.7159983" ;
+	sweet:featuredproductname "キャラメルナッツシルク"@ja ;
+	sweet:featuredproductprice "378円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161206112732.jpg" ;
+	sweet:featuredproductdescription "シルクメニュー人気No.1！" .
+
+<urn:000078>
+	sweet:shopname "キングスイーツ"@j, "きんぐすいーつ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161206095858.jpg" ;
+	sweet:shopdescription "地元の老舗ベーカリー「キングベーク」直営のスイーツ専門店。オリジナルソフトクリームやお土産に最適な商品が並ぶ。人気商品「函館ラスク」は試食が可能な他、チョコレート掛けを見学できる実演スペースも併設。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-12-06" ;
+	sweet:postcode "040-0063" ;
+	schema:address "函館市若松町12-13JR函館駅構内1階" ;
+	schema:telephone "0138-22-0303" ;
+	schema:openingHoursSpecification "8:00～20:00" ;
+	sweet:closed "無休 ※函館駅前広場駐車場の場合 入庫から30分まで無料" ;
+	sweet:parking "有料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000078" ;
+	schema:url "" ;
+	geo:lat "41.77378" ;
+	geo:long "140.726474" ;
+	sweet:featuredproductname "函館ラスク（全10種）"@ja ;
+	sweet:featuredproductprice "432円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161206095858.jpg" ;
+	sweet:featuredproductdescription "本店自慢の食パンで作る一口ラスク。こだわりの各種フレーバーは、大人も楽しめる贅沢チョコレートや北海道らしい「赤肉メロン」、おつまみ系など、選ぶのも楽しい。小ぶりでPOPなデザインはプチギフトにも◎。※チョコレート3種のみ540円" .
+
+<urn:000079>
+	sweet:shopname "アンジェリックヴォヤージュ"@j, "あんじぇりっくう゛ぉやーじゅ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161206105206.jpg" ;
+	sweet:shopdescription "函館の港と夜景が見える小さなお店で、楽しくお菓子を作っています。当店のスペシャル、ショコラヴォヤージュをはじめ、お土産に最適な焼菓子も取り揃えています。ご注文を受けてからお作りするクレープもオススメ！" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-12-06" ;
+	sweet:postcode "040-0056" ;
+	schema:address "函館市弥生町3-11" ;
+	schema:telephone "0138-76-7150" ;
+	schema:openingHoursSpecification "10:00～19:00（但し、品切れ次第閉店）" ;
+	sweet:closed "月曜日（祝日の場合、翌日火曜日休み）" ;
+	sweet:parking "なし" ;
+	sweet:eatin "なし" ;
+	sweet:id "000079" ;
+	schema:url "http://www.angeliquevoyage.com" ;
+	geo:lat "41.7679042" ;
+	geo:long "140.7091175" ;
+	sweet:featuredproductname "ショコラヴォヤージュ"@ja ;
+	sweet:featuredproductprice "1,300円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161206105206.jpg" ;
+	sweet:featuredproductdescription "北海道産の生クリームをガナッシュで包み込んだ当店1番人気の生トリュフです。冷凍したままだとアイスの様にさっぱりと、冷蔵解凍するとふんわり、お好きなお召し上がり方でどうぞ！お持ち帰り、最大10時間まで保冷が可能です。" .
+
+<urn:000030>
+	sweet:shopname "カドウフーズ　株式会社　嘉福堂"@j, "かどうふーず　かぶしきかいしゃ　かふくどう"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130831084456.jpg" ;
+	sweet:shopdescription "北海道の恵まれた食材にこだわった、美味しい手づくりメニューを皆様へ" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2016-12-05" ;
+	sweet:postcode "040-0071" ;
+	schema:address "函館市追分町1-25" ;
+	schema:telephone "0138-62-6077" ;
+	schema:openingHoursSpecification "9:00～17:00" ;
+	sweet:closed "日曜日・祝日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000030" ;
+	schema:url "http://kadoufoods.meisanichiba.jp/" ;
+	geo:lat "41.7979213" ;
+	geo:long "140.7325228" ;
+	sweet:featuredproductname "はこだて雪んこ"@ja ;
+	sweet:featuredproductprice "1,080円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130828062252.jpg" ;
+	sweet:featuredproductdescription "「嘉福堂」では、北海道限定のスイートポテト大福「はこだて雪んこ」を作っています。地産に基づいて作られた、半解凍でアイスの様に食べられるスイーツです。ＪＲ函館駅、函館空港等で購入戴けます。" .
+
+<urn:000047>
+	sweet:shopname "五島軒本店　スイーツ＆デリカショップAshibino"@j, "ごとうけんほんてん　すいーつあんどでりかしょっぷあしびの"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161205041628.jpg" ;
+	sweet:shopdescription "レストラン五島軒は明治12年に創業し、函館の歴史と洋食文化を今に伝える老舗として、市民の皆様に親しまれてきました。店内の直営ショップ「Ashibino」は、コース料理のデザートとして発展した洋菓子の数々を取り揃え、お客様をお待ちしております。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-12-05" ;
+	sweet:postcode "040-0053" ;
+	schema:address "函館市末広町4-5" ;
+	schema:telephone "0138-23-1106" ;
+	schema:openingHoursSpecification "11:00～20:00" ;
+	sweet:closed "月曜日（1月～2月のみ）" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000047" ;
+	schema:url "http://www.gotoken.hakodate.jp" ;
+	geo:lat "41.7636242" ;
+	geo:long "140.7159866" ;
+	sweet:featuredproductname "シリーズ"@ja ;
+	sweet:featuredproductprice "各540円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161205041628.jpg" ;
+	sweet:featuredproductdescription "菓子職人が手作りで焼き上げる伝統の洋菓子を、異国風の錦絵をあしらったモダンで可愛らしい9種類の小箱に入れてお届けします。 　函館ならではのお土産、贈り物として、どうぞお役立てくださいませ。" .
+
+<urn:000058>
+	sweet:shopname "ザ・ランド・オブ・ドリーミング"@j, "ざ・らんど・おぶ・どりーみんぐ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161205052024.jpg" ;
+	sweet:shopdescription "ケーキはできるだけ添加物を使わず出来たてをお客様にと思っています。ケーキ、喫茶、誰かと楽しみいっぱいの品をそろえています。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2016-12-05" ;
+	sweet:postcode "040-0062" ;
+	schema:address "函館市大縄町24-16" ;
+	schema:telephone "0138-41-3006" ;
+	schema:openingHoursSpecification "10:30～18:00" ;
+	sweet:closed "土・日・祭日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000058" ;
+	schema:url "" ;
+	geo:lat "41.7835893" ;
+	geo:long "140.7327734" ;
+	sweet:featuredproductname "ロビンフット（アップルパイ）"@ja ;
+	sweet:featuredproductprice "370円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161205052024.jpg" ;
+	sweet:featuredproductdescription "七飯町のりんごをひとつひとつ煮こみバターたっぷりのパイで包んで焼き上げています。" .
+
+<urn:000059>
+	sweet:shopname "末廣庵"@j, "すえひろあん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130901022635.jpg" ;
+	sweet:shopdescription "創業は1934年、ここ木古内で地域の素材などを使い木古内町に根ざした菓子を作り続ける" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-12-05" ;
+	sweet:postcode "049-0422" ;
+	schema:address "上磯郡木古内町本町237" ;
+	schema:telephone "01392-2-2069" ;
+	schema:openingHoursSpecification "9:00～18:00" ;
+	sweet:closed "不定休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000059" ;
+	schema:url "http://koukoumoti.com/" ;
+	geo:lat "41.6764168" ;
+	geo:long "140.4361154" ;
+	sweet:featuredproductname "咸臨丸"@ja ;
+	sweet:featuredproductprice "150（咸臨丸　咸臨丸は当店末廣庵の登録商標です）円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130829060059.jpg" ;
+	sweet:featuredproductdescription "今も木古内町のサラキ岬沖に眠る咸臨丸。その咸臨丸の功績を称え、菓子にしました。２種類の餡をサンド、白餡は酒を、黒餡は胡麻を使用し怒濤の幕末維新を背景に栄光と悲劇の波に揉まれた咸臨丸を表現しました。" .
+
+<urn:000063>
+	sweet:shopname "モンドール洋菓子店"@j, "もんどーるようがしてん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161205050314.jpg" ;
+	sweet:shopdescription "函館中道通りに41年前に開店し地域の皆様に支えられてまいりました小さな店舗です。商品価格は出来るだけ抑え良質な材料と技術で皆様に喜んでいただけるよう努めております。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2016-12-05" ;
+	sweet:postcode "041-0853" ;
+	schema:address "函館市中道1丁目24-45" ;
+	schema:telephone "0138-52-0475" ;
+	schema:openingHoursSpecification "8:30～18:30" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000063" ;
+	schema:url "" ;
+	geo:lat "41.8038799" ;
+	geo:long "140.7593066" ;
+	sweet:featuredproductname "ゴールデン"@ja ;
+	sweet:featuredproductprice "220円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161205050315.jpg" ;
+	sweet:featuredproductdescription "アーモンドとヘーゼルナッツの粉末・少量の薄力粉・砂糖はグラニュー糖・トレハロース・卵は卵白のみで焼き上げたしっとり生地にいちごゼリーといちごクリームで仕上げてあります。" .
+
+<urn:000012>
+	sweet:shopname "ラパン・ド・ネージュ"@j, "らぱん・ど・ねーじゅ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161130114105.jpeg" ;
+	sweet:shopdescription "シェフが一人で全てのケーキを作る小さなお店です。道産素材を中心に、こだわりの食材や季節のおいしい果物など旬を大切にていねいなお菓子を作っています。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-11-30" ;
+	sweet:postcode "040-0064" ;
+	schema:address "函舘市大手町16-1" ;
+	schema:telephone "0138-27-5505" ;
+	schema:openingHoursSpecification "10:00～19:00（日曜・祝日18:00）" ;
+	sweet:closed "火曜日・月1不定休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000012" ;
+	schema:url "http://ameblo.jp/lapin-de-neige/" ;
+	geo:lat "41.7691182" ;
+	geo:long "140.7267993" ;
+	sweet:featuredproductname "シュークリーム"@ja ;
+	sweet:featuredproductprice "281円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161130111741.jpeg" ;
+	sweet:featuredproductdescription "道産の素材を使い、しっかり焼き込んだ皮はほんのり塩味がきいています。道産の生クリームとカスタードクリームを合わせた”ディプロマット”というクリームをたっぷりつめ、底にもカスタードが入っています。" .
+
+<urn:000048>
+	sweet:shopname "千秋庵総本家"@j, "せんしゅうあんそうほんけ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161130115436.jpg" ;
+	sweet:shopdescription "創業以来152年、材料にこだわり手間と時間をかけた、ていねいな菓子作りの店" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-11-30" ;
+	sweet:postcode "040-0043" ;
+	schema:address "函館市宝来町9-9" ;
+	schema:telephone "0138-23-5131" ;
+	schema:openingHoursSpecification "9:00～18:00（季節により変更あり）" ;
+	sweet:closed "月1回　水曜日(月により変更あり)" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000048" ;
+	schema:url "http://sensyuansohonke.co.jp" ;
+	geo:lat "41.7611078" ;
+	geo:long "140.7194447" ;
+	sweet:featuredproductname "函館散歩（カステラ饅頭）"@ja ;
+	sweet:featuredproductprice "110円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161130115437.jpg" ;
+	sweet:featuredproductdescription "北海道新幹線開通にあわせ3年の歳月をかけて作り上げた「函館散歩」です。十勝音更産エリモ小豆のこしあんを道産小麦を使ったしっとり生地で包み焼き上げました。" .
+
+<urn:000066>
+	sweet:shopname "パティスリー　イグレック"@j, "ぱてぃすりー　いぐれっく"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161130110533.jpg" ;
+	sweet:shopdescription "東京やフランスで修行した静岡出身の女性オーナーパティシエが作るスイーツのお店。季節のフルーツがどっさりのったフルーツタルトや、写真やキャラクターを使ったフォトケーキは、お誕生日や記念日に人気。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-11-30" ;
+	sweet:postcode "049-0121" ;
+	schema:address "北斗市久根別2-3-17" ;
+	schema:telephone "0138-84-1365" ;
+	schema:openingHoursSpecification "9:30～20:00 （日・祝は19:00まで）" ;
+	sweet:closed "水曜日・第3木曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000066" ;
+	schema:url "http://s.ameblo.jp/patisserie-igrek/" ;
+	geo:lat "41.8253742" ;
+	geo:long "140.6732317" ;
+	sweet:featuredproductname "フォトケーキ（15cm）"@ja ;
+	sweet:featuredproductprice "3,600円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161130110534.jpg" ;
+	sweet:featuredproductdescription "お子様の写真やご家族の記念写真、好きなキャラクターの写真など何でもプリントしてケーキの上にのせてお作りします。もちろん、可食インクと紙を使用しますので、全て食べられます。 12cm～24cmまで、お好きなサイズでお作りします。" .
+
+<urn:000076>
+	sweet:shopname "おにぎり・大福　ふくふく"@j, "ふくふく"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161130121255.jpg" ;
+	sweet:shopdescription "ふくふくは地場の食材にこだわり、安全・安心・おいしい商品をご提供致します。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-11-30" ;
+	sweet:postcode "049-0122" ;
+	schema:address "北斗市東浜2丁目13-21" ;
+	schema:telephone "0138-73-2921" ;
+	schema:openingHoursSpecification "8:30～18:00" ;
+	sweet:closed "日曜日・第3月曜日（連休）" ;
+	sweet:parking "なし" ;
+	sweet:eatin "なし" ;
+	sweet:id "000076" ;
+	schema:url "" ;
+	geo:lat "41.8251933" ;
+	geo:long "140.6624631" ;
+	sweet:featuredproductname "風の子大福　まるごと１５味（苺大福）"@ja ;
+	sweet:featuredproductprice "150円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161130121255.jpg" ;
+	sweet:featuredproductdescription "八雲町産風の子餅米を使用し、餅には苺果汁を混ぜ色付けし、苺の香りと味が楽しめます。中には北斗市産「けんたろう苺」をまるごと1個が餡で包んで入っており、ジューシーでおいしい大福です。販売期間5月～7月上旬まで。" .
+
+<urn:000077>
+	sweet:shopname "山田屋菓子舗"@j, "やまだやかしほ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161130122956.jpg" ;
+	sweet:shopdescription "お店手づくりの和菓子は、一つひとつ丁寧に作っております。かもめ島最中や大福餅など、さまざまな和菓子が揃う。中でもいちご大福は遠方から訪れてくれるファンも多い人気商品です。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-11-30" ;
+	sweet:postcode "043-0041" ;
+	schema:address "檜山郡江差町字姥神町79-1" ;
+	schema:telephone "0139-52-0302" ;
+	schema:openingHoursSpecification "8:30～19:00" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000077" ;
+	schema:url "" ;
+	geo:lat "41.8661423" ;
+	geo:long "140.1233937" ;
+	sweet:featuredproductname "大福餅"@ja ;
+	sweet:featuredproductprice "120～186円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161130122956.jpg" ;
+	sweet:featuredproductdescription "毎朝、杵でついた餅で作っております。中でも「いちご大福」(1月～6月下旬)、コーヒー風味の餡と生クリームが絶妙な「モカ大福」もおすすめです。" .
+
+<urn:000075>
+	sweet:shopname "シュークリーム専門店　ママデコレ"@j, "ままでこれ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161122043036.jpg" ;
+	sweet:shopdescription "函館山の麓。観光地ベイエリア近くにあるシュークリームの専門店ママデコレ。お土産にも、旅の途中の食べ歩きにも。おひとついかがですか。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-11-22" ;
+	sweet:postcode "040-0053" ;
+	schema:address "函館市末広町16-10" ;
+	schema:telephone "0138-27-4008" ;
+	schema:openingHoursSpecification "10:00～18:00" ;
+	sweet:closed "水曜日" ;
+	sweet:parking "なし" ;
+	sweet:eatin "なし" ;
+	sweet:id "000075" ;
+	schema:url "mailto:xmycj436@yahoo.co.jp" ;
+	geo:lat "41.7652379" ;
+	geo:long "140.715842" ;
+	sweet:featuredproductname "ママシュー"@ja ;
+	sweet:featuredproductprice "160円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161122043036.jpg" ;
+	sweet:featuredproductdescription "函館牛乳と北海道産生クリームを使って炊き上げた自家製カスタードです。口の中でとろけるクリームを満喫して下さい。" .
+
+<urn:000041>
+	sweet:shopname "北洋堂"@j, "ほくようどう"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161122051412.gif" ;
+	sweet:shopdescription "桜とお城の松前町の中央商店街「城下通り」登城坂の近くにあり、瓦屋根に漆喰壁と江戸時代の商家を連想させる佇まいのお菓子屋です。代々引き継がれた和菓子を中心に季節のお菓子が並べられ、桜を使ったお菓子もたくさん取り揃えております。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-11-22" ;
+	sweet:postcode "049-1511" ;
+	schema:address "松前郡松前町字松城64番地" ;
+	schema:telephone "0139-42-2058" ;
+	schema:openingHoursSpecification "8:30～18:00" ;
+	sweet:closed "木曜日 ※さくら祭り期間中は営業いたします。" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000041" ;
+	schema:url "mailto:hokuyoudou@icloud.com" ;
+	geo:lat "41.4285338" ;
+	geo:long "140.1086405" ;
+	sweet:featuredproductname "純生桜ロールケーキ"@ja ;
+	sweet:featuredproductprice "1,300円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161122051412.jpg" ;
+	sweet:featuredproductdescription "桃色のふわふわスポンジでほんのり桜風味の純生クリームと桜葉入りのブリュレを巻きました。春の香りをお楽しみいただけます。冷凍の状態で販売しております。" .
+
+<urn:000072>
+	sweet:shopname "株式会社中村屋"@j, "かぶしきがいしゃなかむらや"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161228105050.jpg" ;
+	sweet:shopdescription "あわび最中をはじめ、和菓子、洋菓子を販売しております。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2016-11-22" ;
+	sweet:postcode "049-1511" ;
+	schema:address "松前郡松前町字松城3番地" ;
+	schema:telephone "0139-42-2162" ;
+	schema:openingHoursSpecification "9:00～18:00" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "なし" ;
+	sweet:eatin "なし" ;
+	sweet:id "000072" ;
+	schema:url "" ;
+	geo:lat "41.4286449" ;
+	geo:long "140.1100403" ;
+	sweet:featuredproductname "あわび最中"@ja ;
+	sweet:featuredproductprice "1個145円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161122115944.jpg" ;
+	sweet:featuredproductdescription "当社自慢の十勝産小豆を使用したつぶあんと求肥の入ったあわびの形をした最中。" .
+
+<urn:000026>
+	sweet:shopname "グルマン　カンタ"@j, "ぐるまん　かんた"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130831083546.jpg" ;
+	sweet:shopdescription "私たちは伝統と新しいスタイルで美味しさをお届け致します。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2016-11-21" ;
+	sweet:postcode "040-0062" ;
+	schema:address "函館市梁川町10-24　SHOP86" ;
+	schema:telephone "0138-33-5501" ;
+	schema:openingHoursSpecification "8:00～19:00" ;
+	sweet:closed "水曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000026" ;
+	schema:url "https://www.facebook.com/gourmands.kanta" ;
+	geo:lat "41.7897289" ;
+	geo:long "140.7445837" ;
+	sweet:featuredproductname "サンドウィッチ"@ja ;
+	sweet:featuredproductprice "450～620円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130831083546.jpg" ;
+	sweet:featuredproductdescription "ヨーロピアンスタイルの「オーダーしてから作る」こだわりの出来立てでフレッシュなサンドイッチ。6種のバンズ(パン)に常時4～5種のガルニ(具材)とソース4種で自分好みの組合わせを楽しめます。" .
+
+<urn:000029>
+	sweet:shopname "はこだて柳屋"@j, "はこだてやなぎや"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130831083834.jpg" ;
+	sweet:shopdescription "和菓子店" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2016-11-21" ;
+	sweet:postcode "040-0075" ;
+	schema:address "函館市万代町3-13" ;
+	schema:telephone "0138-42-0989" ;
+	schema:openingHoursSpecification "8:30～20:00" ;
+	sweet:closed "なし" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000029" ;
+	schema:url "http://www.ikayokan.com" ;
+	geo:lat "41.7870333" ;
+	geo:long "140.7312011" ;
+	sweet:featuredproductname "いかようかん"@ja ;
+	sweet:featuredproductprice "1,188円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130828061821.jpg" ;
+	sweet:featuredproductdescription "１９９７年に販売をしております「いかようかん」は、函館のお土産として大変好評です。他にも季節の菓子や、各種引出物やケーキ等洋菓子も取揃えております。" .
+
+<urn:000034>
+	sweet:shopname "ミモザ"@j, "みもざ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130831084410.jpg" ;
+	sweet:shopdescription "大切な方へのお菓子の贈り物・家族や友達との幸せなひとときにミモザのお菓子を。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2016-11-21" ;
+	sweet:postcode "042-0942" ;
+	schema:address "函館市柏木町38-2" ;
+	schema:telephone "0138-52-6001" ;
+	schema:openingHoursSpecification "10:00～19:00" ;
+	sweet:closed "火曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000034" ;
+	schema:url "" ;
+	geo:lat "41.7893816" ;
+	geo:long "140.7711569" ;
+	sweet:featuredproductname "フレジェ"@ja ;
+	sweet:featuredproductprice "368円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130831084411.jpg" ;
+	sweet:featuredproductdescription "季節を感じていただけるオリジナルケーキ。豊富な品揃えの焼き菓子はギフトにも最適です。また冷凍で地方発送もできるクリミィーチーズロール（８ケ入￥945）も人気です。" .
+
+<urn:000039>
+	sweet:shopname "ペイストリー　スナッフルス　金森洋物館店"@j, "ぺいすとりー　すなっふるす　かなもりようぶつかんてん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161121040459.png" ;
+	sweet:shopdescription "北海道産の安全で新鮮な材料を使い、シンプルでわかりやすく新鮮な商品を北海道から全国へ提供し続ける。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2016-11-21" ;
+	sweet:postcode "040-0053" ;
+	schema:address "函舘市末広町13-9" ;
+	schema:telephone "0138-27-1240" ;
+	schema:openingHoursSpecification "9:30～19:00※季節によって変わる場合があります。" ;
+	sweet:closed "建物に準じます。 ※金森赤レンガ倉庫駐車場あり" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000039" ;
+	schema:url "http://www.snaffles.jp" ;
+	geo:lat "41.7664572" ;
+	geo:long "140.7169474" ;
+	sweet:featuredproductname "チーズオムレット8個入り"@ja ;
+	sweet:featuredproductprice "1,296円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130830022625.jpg" ;
+	sweet:featuredproductdescription "函館山から広がる町並みの始まりは洋館が立ち並ぶ石畳の坂。静かな黄昏の鐘に、時を忘れ佇むと海からの風に町の光が瞬く…。ノスタルジックな雰囲気の赤レンガ倉庫群でゆったりとお買い物をお楽しみください。" .
+
+<urn:000051>
+	sweet:shopname "洋菓子のピーターパン"@j, "ようがしのぴーたーぱん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161122121003.jpg" ;
+	sweet:shopdescription "昔ながらのケーキのスタイルを今でも続けています。" ;
+	sweet:area "北部エリア" ;
+	dc:modified "2016-11-21" ;
+	sweet:postcode "041-1105" ;
+	schema:address "亀田郡七飯町桜町2-1-12" ;
+	schema:telephone "0138-65-7623　" ;
+	schema:openingHoursSpecification "8:30～20:00" ;
+	sweet:closed "不定休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000051" ;
+	schema:url "" ;
+	geo:lat "41.9013216" ;
+	geo:long "140.6888087" ;
+	sweet:featuredproductname "アップルパイ"@ja ;
+	sweet:featuredproductprice "1,566円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130829052525.jpg" ;
+	sweet:featuredproductdescription "七飯のりんごが沢山入ったサクッとしたアップルパイです。開店当初から大人気の商品です。" .
+
+<urn:000071>
+	sweet:shopname "函館おたふく堂"@j, "はこだておたふくどう"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161121052832.JPG" ;
+	sweet:shopdescription "北海道産大豆から出来た、豆乳、おから、豆腐を道産小麦粉、道産グラニュー糖、道南の旬の食材を使用した、豆乳しふぉんケーキ専門店です。他にも、おからボーロ、とうふケーキなどの品揃えをしています。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2016-11-21" ;
+	sweet:postcode "041-0853" ;
+	schema:address "函館市中道1-22-5コーポなかの1F" ;
+	schema:telephone "0138-32-2300" ;
+	schema:openingHoursSpecification "10:00～19:00" ;
+	sweet:closed "火曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000071" ;
+	schema:url "mailto:otafukudo@gmail.com" ;
+	geo:lat "41.8024216" ;
+	geo:long "140.7573706" ;
+	sweet:featuredproductname "豆乳函館しふぉん"@ja ;
+	sweet:featuredproductprice "17cm型（大）980円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161122114510.jpg" ;
+	sweet:featuredproductdescription "シンプルな豆乳しふぉん。卵の黄身を使わず、卵白（メレンゲ）だけで仕上げた、メイドイン北海道産のしふぉんケーキです。コレステロールゼロのヘルシースイーツ店です。" .
+
+<urn:000065>
+	sweet:shopname "フランス菓子　ペシェ・ミニョン"@j, "ふらんすがし　ぺしぇ・みにょん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20161121030806.jpg" ;
+	sweet:shopdescription "シーズン毎に様変わりする花と緑のパティオから差し込む穏やかな陽の光の中で、心おだやかに、できたてのケーキをお楽しみ下さい。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2016-11-21" ;
+	sweet:postcode "042-0943" ;
+	schema:address "函館市乃木町1-2" ;
+	schema:telephone "0138-31-4301" ;
+	schema:openingHoursSpecification "10:00～19:00" ;
+	sweet:closed "水曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000065" ;
+	schema:url "http://www.pechemignon.co.jp/" ;
+	geo:lat "41.779528" ;
+	geo:long "140.7610659" ;
+	sweet:featuredproductname "ケーキセット"@ja ;
+	sweet:featuredproductprice "1080円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20161122124241.jpg" ;
+	sweet:featuredproductdescription "" .
+
+<urn:000031>
+	sweet:shopname "昭和製菓　株式会社"@j, "しょうわせいか　かぶしきかいしゃ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130831083742.jpg" ;
+	sweet:shopdescription "伝統の味を引き継ぎ半世紀、北海道原料で作り上げた函館スイーツの美味しさを全国へ！" ;
+	sweet:area "北部エリア" ;
+	dc:modified "2016-11-18" ;
+	sweet:postcode "041-0824" ;
+	schema:address "函館市西桔梗町589-39" ;
+	schema:telephone "0138-50-8080" ;
+	schema:openingHoursSpecification "8:00～17:30" ;
+	sweet:closed "土曜・日曜・祝日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000031" ;
+	schema:url "http://www.ss-showa.com" ;
+	geo:lat "41.8297923" ;
+	geo:long "140.7212387" ;
+	sweet:featuredproductname "トラピストの丘　函館チーズタルト"@ja ;
+	sweet:featuredproductprice "577円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130831083743.jpg" ;
+	sweet:featuredproductdescription "『いつの時代も皆様に満足していただける』というテーマがあり、品質・安心・安全はもとより美味しさを積極的に追及し、企業理念の進歩・信用・幸福を基に誰からでも愛される商品を作っています。" .
+
+<urn:000016>
+	sweet:shopname "ボン・ガトー・マリス"@j, "ぼん・がとー・まりす"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130901023932.jpg" ;
+	sweet:shopdescription "気軽にケーキ１つから買いに来ていただけるような親しみやすいお店を目指しています。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "040-0082" ;
+	schema:address "函館市白鳥町2-7" ;
+	schema:telephone "0138-42-2477" ;
+	schema:openingHoursSpecification "10:00～19:30" ;
+	sweet:closed "水曜日（祝日の場合、翌木曜日休み）" ;
+	sweet:parking "なし" ;
+	sweet:eatin "" ;
+	sweet:id "000016" ;
+	schema:url "" ;
+	geo:lat "41.7918582" ;
+	geo:long "140.7435939" ;
+	sweet:featuredproductname "キャラクターデコレーション5号（15cm）2日前までの予約になります。"@ja ;
+	sweet:featuredproductprice "3,525円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130828034530.jpg" ;
+	sweet:featuredproductdescription "当店はデコレーションケーキに力を入れており、数種類のデザインをご用意しております。特にキャラクターデコレーションは人気商品です。大切な日の、笑顔になるお手伝いが出来ればと思います。" .
+
+<urn:000018>
+	sweet:shopname "はるの餅"@j, "はるのもち"@ja-Hira ;
+	sweet:shopimage "" ;
+	sweet:shopdescription "お餅も餡も全て手作り餅大門で40年の餅職人が作る懐かしくも新しいお餅をご賞味ください。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "040-0035" ;
+	schema:address "函館市松風町2-5" ;
+	schema:telephone "0138-23-3133" ;
+	schema:openingHoursSpecification "8:00～18:30" ;
+	sweet:closed "不定休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000018" ;
+	schema:url "" ;
+	geo:lat "41.7701142" ;
+	geo:long "140.7321603" ;
+	sweet:featuredproductname "はるの餅"@ja ;
+	sweet:featuredproductprice "110円" ;
+	sweet:featuredproductimage "" ;
+	sweet:featuredproductdescription "当店の商品はひとつひとつが手作りです。中でも店名を冠した「はるの餅」は苦味のないくるみが自家製の餡をさっぱりさせ、食べやすいと人気です。ぜひこの機会に一度足を運んでみてください！" .
+
+<urn:000020>
+	sweet:shopname "パティスリー　ばら苑"@j, "ぱてぃすりー　ばらえん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130831083453.jpg" ;
+	sweet:shopdescription "誰が食べても一口目に 「美味しい」の一言を目指して･･･" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "041-0851" ;
+	schema:address "函館市本通2-54-1" ;
+	schema:telephone "0138-53-0419" ;
+	schema:openingHoursSpecification "10:00～18:00" ;
+	sweet:closed "木曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000020" ;
+	schema:url "" ;
+	geo:lat "41.8028885" ;
+	geo:long "140.7663786" ;
+	sweet:featuredproductname "グランショコラ"@ja ;
+	sweet:featuredproductprice "340円" ;
+	sweet:featuredproductimage "" ;
+	sweet:featuredproductdescription "味の構成を複雑にせず、シンプルな中にも吟味した素材で確かな「美味しい」をご提供いたします。" .
+
+<urn:000021>
+	sweet:shopname "パティスリー　アキラ"@j, "ぱてぃすりー　あきら"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830043314.jpg" ;
+	sweet:shopdescription "おいしさのために鮮度と素材にこだわった、確かな技術をもつ小さなフランス菓子の店。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "040-0012" ;
+	schema:address "函館市時任町34-23" ;
+	schema:telephone "0138-51-1187" ;
+	schema:openingHoursSpecification "10:00～19:30" ;
+	sweet:closed "不定休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000021" ;
+	schema:url "" ;
+	geo:lat "41.7824901" ;
+	geo:long "140.7572634" ;
+	sweet:featuredproductname "はちみつと4種のナッツ"@ja ;
+	sweet:featuredproductprice "340円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130830043315.jpg" ;
+	sweet:featuredproductdescription "定番のフランス菓子を中心に季節の創作生菓子と、マカロンなどの焼菓子を販売。素材を選び出来たてのおいしさを味わっていただけるよう少量ずつ作っている。土、日限定のクロワッサンも人気。" .
+
+<urn:000022>
+	sweet:shopname "大黒餅"@j, "だいこくもち"@ja-Hira ;
+	sweet:shopimage "" ;
+	sweet:shopdescription "今はもうないエビス屋という妻方の実家の餅店で修業後、末広町で独立開業したのが始まり。昭和9年の大火に遭い現在の場所に移転。昔ながらの和菓子店です。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "040-0025" ;
+	schema:address "函館市堀川町7-1" ;
+	schema:telephone "0138-51-7405" ;
+	schema:openingHoursSpecification "7:00～21:00" ;
+	sweet:closed "無休" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000022" ;
+	schema:url "" ;
+	geo:lat "41.778565" ;
+	geo:long "140.7419091" ;
+	sweet:featuredproductname "べこもち"@ja ;
+	sweet:featuredproductprice "円" ;
+	sweet:featuredproductimage "" ;
+	sweet:featuredproductdescription "大福三色(白)こしあんをはじめ赤白あん・草粒あん・羊かん各種ご用意いたしております。昔ながらの素材と製法で餅作りを続けています。" .
+
+<urn:000023>
+	sweet:shopname "欧風菓子　ピラミッド"@j, "おうふうがし　ぴらみっど"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130901022559.jpg" ;
+	sweet:shopdescription "急に食べたくなった時も、手ぶらで帰れないアナタも。深夜12時まで営業しています。" ;
+	sweet:area "中央エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "040-0011" ;
+	schema:address "函館市本町1-33　スターパレスビル1Ｆ" ;
+	schema:telephone "0138-52-2565" ;
+	schema:openingHoursSpecification "15:00～24:00" ;
+	sweet:closed "日曜日・祝日" ;
+	sweet:parking "なし" ;
+	sweet:eatin "" ;
+	sweet:id "000023" ;
+	schema:url "" ;
+	geo:lat "41.7878338" ;
+	geo:long "140.749883" ;
+	sweet:featuredproductname "ハートのデコレーションケーキ　"@ja ;
+	sweet:featuredproductprice "3,350円" ;
+	sweet:featuredproductimage "" ;
+	sweet:featuredproductdescription "創業以来、30年間同じ時を守り続けお客さまに親しまれているのが、シフォンケーキ、お店の代表作です。ココア、モカ、バナナ、紅茶、プレーンその他季節により、イチゴや抹茶なども登場します。" .
+
+<urn:000025>
+	sweet:shopname "パティスリー　プティ・メルヴィーユ　金森赤レンガ倉庫ＢＡＹはこだて店"@j, "ぱてぃすりー　ぷてぃ・めるゔぃーゆ　かなもりあかれんがそうこべいはこだててん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830043816.jpg" ;
+	sweet:shopdescription "函館の観光名所「赤レンガ倉庫」にある店舗です。1996年9月発売以来、プティ・メルヴィーユの代表作「メルチーズ」や「かぼちゃプリン」をはじめ厳選素材を使ったスイーツをお楽しみ下さい。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "040-0065" ;
+	schema:address "函館市豊川町11-5" ;
+	schema:telephone "0138-84-5677" ;
+	schema:openingHoursSpecification "9:30～19:00" ;
+	sweet:closed "無休　※赤レンガ倉庫の休館日はお休みとなります。" ;
+	sweet:parking "有料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000025" ;
+	schema:url "http://www.petite-merveille.co.jp" ;
+	geo:lat "41.7666873" ;
+	geo:long "140.7173632" ;
+	sweet:featuredproductname "メルチーズ(8個入)"@ja ;
+	sweet:featuredproductprice "1,050円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130830043816.jpg" ;
+	sweet:featuredproductdescription "北海道で1番最初につくられた一口タイプのチーズスフレ「函館メルチーズ」" .
+
+<urn:000027>
+	sweet:shopname "スイーツ　けやき　どら焼のお店"@j, "すいーつ　けやき　どらやきのおみせ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830040913.jpg" ;
+	sweet:shopdescription "北海道産の無添加素材を使った、27種類のオリジナルどら焼を一つ一つ手造りで製造販売。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "041-0807" ;
+	schema:address "函館市北美原２丁目24-13" ;
+	schema:telephone "0138-47-4561" ;
+	schema:openingHoursSpecification "10:00～18:00" ;
+	sweet:closed "月曜日、第1・第3日曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000027" ;
+	schema:url "http://sweets-keyaki.meisanichiba.jp" ;
+	geo:lat "41.830718" ;
+	geo:long "140.747748" ;
+	sweet:featuredproductname "贅沢どら　6品"@ja ;
+	sweet:featuredproductprice "1個　263円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130828060253.jpg" ;
+	sweet:featuredproductdescription "どら焼専門店です。27種類のどら焼をメインに、製造販売しております。素材は北海道産で小麦粉、卵、あずき、バター等々出来る限り道産にこだわり毎日美味しさを追求しております。" .
+
+<urn:000028>
+	sweet:shopname "チッチョ　パスティッチョ"@j, "ちっちょ　ぱすてぃっちょ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830033931.jpg" ;
+	sweet:shopdescription "地元素材をふんだんに使った愛らしいイタリア菓子のオンパレード。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "041-0802" ;
+	schema:address "函館市石川町316-5" ;
+	schema:telephone "0138-34-7020" ;
+	schema:openingHoursSpecification "10:00～20:00（日曜日10:00～19:00）" ;
+	sweet:closed "月曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000028" ;
+	schema:url "http://cicciopasticcio.jp" ;
+	geo:lat "41.8250045" ;
+	geo:long "140.7410237" ;
+	sweet:featuredproductname ""@ja ;
+	sweet:featuredproductprice "" ;
+	sweet:featuredproductimage "" ;
+	sweet:featuredproductdescription "" .
+
+<urn:000035>
+	sweet:shopname "有限会社　銀月"@j, "ゆうげんかいしゃ　ぎんげつ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130831074944.jpg" ;
+	sweet:shopdescription "昭和41年創業の和菓子、お団子の専門店。湯の川名物といえばやっぱり「やきだんご」" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "042-0932" ;
+	schema:address "函館市湯川町2丁目22-5" ;
+	schema:telephone "0138-57-6504" ;
+	schema:openingHoursSpecification "8:30～17:30" ;
+	sweet:closed "火曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000035" ;
+	schema:url "" ;
+	geo:lat "41.7798746" ;
+	geo:long "140.7872648" ;
+	sweet:featuredproductname "串だんご"@ja ;
+	sweet:featuredproductprice "94円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130831074945.jpg" ;
+	sweet:featuredproductdescription "看板商品の「やきだんご」をはじめ、串団子はあん・ごま・きなこ(期間限定)の４種類。生地には、北海道産米１００％使い、きらら３９７やほしのゆめを主に、独自にブレンドしています。" .
+
+<urn:000046>
+	sweet:shopname "菓子工房　花園正家"@j, "かしこうぼう　はなぞのしょうけ"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830032557.jpg" ;
+	sweet:shopdescription "ほんものの、心を贈る手造りの店。 当社は昭和48年創業の和菓子専門店です。近年は特に、健康第一が叫ばれている時代。当店では道産健康食材を取り入れた、銘菓開発に力を注いでおります。是非ご賞味下されば幸いと存じます。" ;
+	sweet:area "北部エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "041-0802" ;
+	schema:address "函館市港町1丁目33-25" ;
+	schema:telephone "0138-45-5828" ;
+	schema:openingHoursSpecification "8:30～19:30" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000046" ;
+	schema:url "" ;
+	geo:lat "41.801629" ;
+	geo:long "140.7230735" ;
+	sweet:featuredproductname "じゃが昆布　北の恵み"@ja ;
+	sweet:featuredproductprice "110円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130829050353.jpg" ;
+	sweet:featuredproductdescription "函館近郊で採れたジャガイモと真昆布を使ったヘルシーな新感覚焼き菓子。" .
+
+<urn:000053>
+	sweet:shopname "ホテル函館ロイヤル　ベーカリー"@j, "ほてるはこだてろいやる　べーかりー"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830040512.jpg" ;
+	sweet:shopdescription "子供からお年寄りまで気軽に立ち寄れるお店です。" ;
+	sweet:area "西部エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "040-0064" ;
+	schema:address "函館市大手町15-18" ;
+	schema:telephone "0138-22-8386" ;
+	schema:openingHoursSpecification "10:00～17:00" ;
+	sweet:closed "日曜日" ;
+	sweet:parking "なし" ;
+	sweet:eatin "なし" ;
+	sweet:id "000053" ;
+	schema:url "" ;
+	geo:lat "41.7685765" ;
+	geo:long "140.7264549" ;
+	sweet:featuredproductname "もものミルクレープ"@ja ;
+	sweet:featuredproductprice "320円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130830040513.jpg" ;
+	sweet:featuredproductdescription "長年ホテルで愛されているシュークリームを始め、ホテル特製のアイスクリーム、くるみレーズンパンが人気の商品の一つになっています。" .
+
+<urn:000054>
+	sweet:shopname "八雲　くら屋"@j, "やくも　くらや"@ja-Hira ;
+	sweet:shopimage "" ;
+	sweet:shopdescription "お菓子を通してお客様と喜びを分かち合うお店。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "049-3105" ;
+	schema:address "二海郡八雲町東雲町64-1" ;
+	schema:telephone "0137-62-3231" ;
+	schema:openingHoursSpecification "9:00～19:00（日曜日9:00～17:00）" ;
+	sweet:closed "火曜日(時期により変更有)" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "" ;
+	sweet:id "000054" ;
+	schema:url "" ;
+	geo:lat "42.2517356" ;
+	geo:long "140.2774561" ;
+	sweet:featuredproductname "徳川慶勝公に感謝　八雲の慶び"@ja ;
+	sweet:featuredproductprice "150円" ;
+	sweet:featuredproductimage "" ;
+	sweet:featuredproductdescription "1969年に創業しお菓子を一生懸命、造り販売してまいりました。近年では八雲町産の食材、正油、牛乳、塩、水、を使用して「おいしい商品」を造り、販売しています。従業員一同心よりお待ちしております。" .
+
+<urn:000056>
+	sweet:shopname "café and bread TOROIKA　トロイカ洋菓子店"@j, "かふぇあんどぶれっど　とろいか　とろいかようがしてん"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830044945.jpg" ;
+	sweet:shopdescription "1977年創業以来、素材にこだわり愛情をこめて全て手作りしております。" ;
+	sweet:area "東央エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "041-0802" ;
+	schema:address "函館市石川町122-40" ;
+	schema:telephone "0138-46-8885" ;
+	schema:openingHoursSpecification "8:30～20:00" ;
+	sweet:closed "水曜日" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000056" ;
+	schema:url "" ;
+	geo:lat "41.8332537" ;
+	geo:long "140.7471216" ;
+	sweet:featuredproductname "風鈴"@ja ;
+	sweet:featuredproductprice "315円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130830044945.jpg" ;
+	sweet:featuredproductdescription "お気に入りの写真やキャラクターをケーキにして大切な日を記憶に残る日にしませんか？当店では100％オーダーメイドのデコレーションケーキができます。何でもご相談ください！！" .
+
+<urn:000060>
+	sweet:shopname "駒ケ岳洋菓子工房"@j, "こまがたけようがしこうぼう"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20130830031558.jpg" ;
+	sweet:shopdescription "駒ケ岳を眺めながら、森の中の小さな工房で作るお菓子屋さん。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "049-2141" ;
+	schema:address "茅部郡森町字駒ケ岳345-3" ;
+	schema:telephone "01374-5-2745" ;
+	schema:openingHoursSpecification "10:00～18:00" ;
+	sweet:closed "月曜日（祝日の場合、翌日火曜日休み）" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "あり" ;
+	sweet:id "000060" ;
+	schema:url "" ;
+	geo:lat "42.0294047" ;
+	geo:long "140.6300804" ;
+	sweet:featuredproductname "駒ケ岳ねんりんロール"@ja ;
+	sweet:featuredproductprice "356円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130830031558.jpg" ;
+	sweet:featuredproductdescription "駒ケ岳洋菓子工房は、開店８年目を迎える駒ケ岳のふもと森の中の小さなケーキ屋さん。森のぬくもり溢れる店内には、お菓子が所狭しと並び、まるでお菓子の家に紛れ込んだよう。" .
+
+<urn:000061>
+	sweet:shopname "クレール　いとう"@j, "くれーる　いとう"@ja-Hira ;
+	sweet:shopimage "" ;
+	sweet:shopdescription "地元密着型の品ぞろえの当店ですが、てづくりのお菓子をお土産にいかがですか？" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2013-08-01" ;
+	sweet:postcode "049-3107" ;
+	schema:address "二海郡八雲町本町118" ;
+	schema:telephone "0137-62-2856" ;
+	schema:openingHoursSpecification "9:00～20:00" ;
+	sweet:closed "無休（元旦のみ、お休み）" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "なし" ;
+	sweet:id "000061" ;
+	schema:url "" ;
+	geo:lat "42.2552295" ;
+	geo:long "140.2709368" ;
+	sweet:featuredproductname ""@ja ;
+	sweet:featuredproductprice "" ;
+	sweet:featuredproductimage "" ;
+	sweet:featuredproductdescription "" .
