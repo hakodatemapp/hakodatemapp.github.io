@@ -578,7 +578,7 @@
                             <td>お店の詳細情報</td>
                         </tr>
                         <tr>
-                            <td>sweet:featuredproductname</td><td></td>
+                            <td>sweet:featuredproductname</td>
                             <td>おすすめ商品名</td>
                         </tr>
                         <tr>
@@ -648,6 +648,38 @@
                     </tbody>
                 </table>
             </div><!-- 語彙表-->
+            
+            <h3 id="section-3">データの例</h3>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;rdf:RDF
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:schema="http://schema.org/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:cc="http://creativecommons.org/ns#"&gt;
+
+&lt;rdf:Description rdf:about="http://lod.per.c.fun.ac.jp:8888/＜魚類＞あいなめ 生"&gt;
+	&lt;schema:category&gt;魚介類&lt;/schema:category&gt;
+	&lt;schema:name&gt;＜魚類＞あいなめ 生&lt;/schema:name&gt;
+	&lt;schema:nutrition rdf:parseType="Resource"&gt;
+		&lt;rdf:type rdf:resource="https://schema.org/NutritionInformation"/&gt;
+		&lt;schema:calories&gt;113kcal&lt;/schema:calories&gt;
+		&lt;schema:proteinContent&gt;19.1g&lt;/schema:proteinContent&gt;
+		&lt;schema:saturatedFatContent&gt;3.4g&lt;/schema:saturatedFatContent&gt;
+		&lt;schema:carbohydrateContent&gt;0.1g&lt;/schema:carbohydrateContent&gt;
+		&lt;schema:cholesterolContent&gt;76mg&lt;/schema:cholesterolContent&gt;
+		&lt;schema:fiberContent&gt;(0)g&lt;/schema:fiberContent&gt;
+		&lt;schema:sodiumContent&gt;150mg&lt;/schema:sodiumContent&gt;
+		&lt;schema:unsaturatedFatContent&gt;2.04g&lt;/schema:unsaturatedFatContent&gt;
+		&lt;schema:servingSize&gt;100g&lt;/schema:servingSize&gt;
+	&lt;/schema:nutrition&gt;
+	&lt;schema:url&gt;http://www.mext.go.jp/component/a_menu/science/detail/__icsFiles/afieldfile/2016/03/24/1365344_1-0210r4.xlsx&lt;/schema:url&gt;
+	&lt;cc:attributionName rdf:resource="http://www.mext.go.jp/" dc:title="文部科学省"/&gt;
+&lt;/rdf:Description&gt;
+
+&lt;/rdf:RDF&gt;
+</code></pre>
+</div>
+
             
 
             <div class="page-header">
