@@ -3,6 +3,29 @@
 @prefix schema: <http://schema.org/> .
 @prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
 
+<urn:000054>
+	sweet:shopname "八雲　くら屋"@j, "やくも　くらや"@ja-Hira ;
+	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20170125032226.jpg" ;
+	sweet:shopdescription "お菓子を通してお客様と喜びを分かち合うお店。1969年に創業。お菓子を一生懸命、造り販売してまいりました。従業員一同心よりお待ちしております。" ;
+	sweet:area "函館市近郊エリア" ;
+	dc:modified "2017-01-25" ;
+	sweet:postcode "049-3105" ;
+	schema:address "二海郡八雲町東雲町64-1" ;
+	schema:telephone "0137-62-3231" ;
+	schema:openingHoursSpecification "9:30～18:30（日曜日9:00～17:00）" ;
+	sweet:closed "火曜日(時期により変更有)" ;
+	sweet:parking "無料あり" ;
+	sweet:eatin "" ;
+	sweet:id "000054" ;
+	schema:email "" ;
+	schema:url "http://kurayakashiho.co.jp/" ;
+	geo:lat "42.2517356" ;
+	geo:long "140.2774561" ;
+	sweet:featuredproductname "バターどら焼"@ja ;
+	sweet:featuredproductprice "189円" ;
+	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20170125032227.jpg" ;
+	sweet:featuredproductdescription "創業からこだわりの全て手作りの逸品!!卵と牛乳のみでのばした生地は濃厚でしっとり。自家製粒あん（十勝産小豆使用、刻み栗入り）と100％バターが合わさり更にコクとまろやかさがＵＰ!!地方の方々にも人気!!" .
+
 <urn:000018>
 	sweet:shopname "はるの餅"@j, "はるのもち"@ja-Hira ;
 	sweet:shopimage "http://www.hakodate-sweets.com/pgm/img/main01-20170123040703.jpg" ;
@@ -17,6 +40,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000018" ;
+	schema:email "" ;
 	schema:url "http://haruno-mochi.com/" ;
 	geo:lat "41.7701142" ;
 	geo:long "140.7321603" ;
@@ -39,6 +63,7 @@
 	sweet:parking "なし" ;
 	sweet:eatin "" ;
 	sweet:id "000016" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7918582" ;
 	geo:long "140.7435939" ;
@@ -61,6 +86,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000021" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7824901" ;
 	geo:long "140.7572634" ;
@@ -68,28 +94,6 @@
 	sweet:featuredproductprice "350円" ;
 	sweet:featuredproductimage "http://www.hakodate-sweets.com/pgm/img/main02-20130830043315.jpg" ;
 	sweet:featuredproductdescription "定番のフランス菓子を中心に季節の創作生菓子と、マカロンなどの焼菓子を販売。素材を選び出来たてのおいしさを味わっていただけるよう少量ずつ作っている。毎日12時に焼き上がるクロワッサンも人気。" .
-
-<urn:000054>
-	sweet:shopname "八雲　くら屋"@j, "やくも　くらや"@ja-Hira ;
-	sweet:shopimage "" ;
-	sweet:shopdescription "お菓子を通してお客様と喜びを分かち合うお店。" ;
-	sweet:area "函館市近郊エリア" ;
-	dc:modified "2017-01-19" ;
-	sweet:postcode "049-3105" ;
-	schema:address "二海郡八雲町東雲町64-1" ;
-	schema:telephone "0137-62-3231" ;
-	schema:openingHoursSpecification "9:30～18:30（日曜日9:00～17:00）" ;
-	sweet:closed "火曜日(時期により変更有)" ;
-	sweet:parking "無料あり" ;
-	sweet:eatin "" ;
-	sweet:id "000054" ;
-	schema:url "http://kurayakashiho.co.jp/" ;
-	geo:lat "42.2517356" ;
-	geo:long "140.2774561" ;
-	sweet:featuredproductname "徳川慶勝公に感謝　八雲の慶び"@ja ;
-	sweet:featuredproductprice "173円" ;
-	sweet:featuredproductimage "" ;
-	sweet:featuredproductdescription "1969年に創業しお菓子を一生懸命、造り販売してまいりました。近年では八雲町産の食材、正油、牛乳、塩、水、を使用して「おいしい商品」を造り、販売しています。従業員一同心よりお待ちしております。" .
 
 <urn:000020>
 	sweet:shopname "パティスリー　ばら苑"@j, "ぱてぃすりー　ばらえん"@ja-Hira ;
@@ -105,6 +109,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000020" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8028885" ;
 	geo:long "140.7663786" ;
@@ -127,6 +132,7 @@
 	sweet:parking "なし" ;
 	sweet:eatin "" ;
 	sweet:id "000023" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7878338" ;
 	geo:long "140.749883" ;
@@ -149,6 +155,7 @@
 	sweet:parking "有料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000025" ;
+	schema:email "" ;
 	schema:url "http://www.petite-merveille.jp/" ;
 	geo:lat "41.7666873" ;
 	geo:long "140.7173632" ;
@@ -171,6 +178,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000027" ;
+	schema:email "" ;
 	schema:url "http://sweets-keyaki.meisanichiba.jp" ;
 	geo:lat "41.830718" ;
 	geo:long "140.747748" ;
@@ -193,6 +201,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000028" ;
+	schema:email "" ;
 	schema:url "http://cicciopasticcio.jp" ;
 	geo:lat "41.8250045" ;
 	geo:long "140.7410237" ;
@@ -215,6 +224,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000035" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7798746" ;
 	geo:long "140.7872648" ;
@@ -237,6 +247,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000046" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.801629" ;
 	geo:long "140.7230735" ;
@@ -259,6 +270,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000060" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "42.0294047" ;
 	geo:long "140.6300804" ;
@@ -281,7 +293,8 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000053" ;
-	schema:url "mailto:royal-h@hakodate.or.jp" ;
+	schema:email "royal-h@hakodate.or.jp" ;
+	schema:url "" ;
 	geo:lat "41.7690767" ;
 	geo:long "140.7331823" ;
 	sweet:featuredproductname "シュークリーム"@ja ;
@@ -303,6 +316,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000056" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8332537" ;
 	geo:long "140.7471216" ;
@@ -325,6 +339,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000095" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8647953" ;
 	geo:long "140.1257742" ;
@@ -347,6 +362,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000094" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8138079" ;
 	geo:long "140.7169288" ;
@@ -369,6 +385,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000014" ;
+	schema:email "" ;
 	schema:url "http://www.facebook.com/g.roule0518/" ;
 	geo:lat "41.7898455" ;
 	geo:long "140.7383005" ;
@@ -391,6 +408,7 @@
 	sweet:parking "有料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000092" ;
+	schema:email "" ;
 	schema:url "http://www.facebook.com/g.roule0518/" ;
 	geo:lat "41.77378" ;
 	geo:long "140.726474" ;
@@ -413,6 +431,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000093" ;
+	schema:email "" ;
 	schema:url "http://quatresaisons-7e.com/" ;
 	geo:lat "41.8998665" ;
 	geo:long "140.6990603" ;
@@ -435,6 +454,7 @@
 	sweet:parking "なし" ;
 	sweet:eatin "あり" ;
 	sweet:id "000081" ;
+	schema:email "" ;
 	schema:url "http://www.misuzucoffee.com" ;
 	geo:lat "41.7722263" ;
 	geo:long "140.7301546" ;
@@ -457,6 +477,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "" ;
 	sweet:id "000073" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7648872" ;
 	geo:long "140.6043604" ;
@@ -479,7 +500,8 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000070" ;
-	schema:url "mailto:info@caromelia.com" ;
+	schema:email "info@caromelia.com" ;
+	schema:url "http://caromelia.com" ;
 	geo:lat "41.7815846" ;
 	geo:long "140.758044" ;
 	sweet:featuredproductname "カロメリパイ"@ja ;
@@ -501,6 +523,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000088" ;
+	schema:email "" ;
 	schema:url "http://www.kimurakashiho.com/" ;
 	geo:lat "41.8964417" ;
 	geo:long "140.6910751" ;
@@ -523,6 +546,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000089" ;
+	schema:email "" ;
 	schema:url "http://www.kimurakashiho.com/" ;
 	geo:lat "41.7761399" ;
 	geo:long "140.7306099" ;
@@ -545,6 +569,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000090" ;
+	schema:email "" ;
 	schema:url "http://kr55lemoncake.jugem.jp/" ;
 	geo:lat "41.78609" ;
 	geo:long "140.752591" ;
@@ -567,6 +592,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000091" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8182043" ;
 	geo:long "140.6395515" ;
@@ -589,6 +615,7 @@
 	sweet:parking "なし" ;
 	sweet:eatin "なし" ;
 	sweet:id "000011" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7717568" ;
 	geo:long "140.7264132" ;
@@ -611,6 +638,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000083" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.9816916" ;
 	geo:long "140.6708495" ;
@@ -633,6 +661,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000082" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7887202" ;
 	geo:long "140.7598018" ;
@@ -655,6 +684,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000087" ;
+	schema:email "" ;
 	schema:url "http://www.e-milk.co.jp" ;
 	geo:lat "41.7726084" ;
 	geo:long "140.8404847" ;
@@ -677,7 +707,8 @@
 	sweet:parking "なし" ;
 	sweet:eatin "あり" ;
 	sweet:id "000074" ;
-	schema:url "mailto:ice-cream@fujireika.com" ;
+	schema:email "ice-cream@fujireika.com" ;
+	schema:url "http://www.fujireika.com" ;
 	geo:lat "41.7697461" ;
 	geo:long "140.7349371" ;
 	sweet:featuredproductname "獺祭　酒粕あいす"@ja ;
@@ -699,6 +730,7 @@
 	sweet:parking "なし" ;
 	sweet:eatin "なし" ;
 	sweet:id "000043" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7958201" ;
 	geo:long "140.7805562" ;
@@ -721,6 +753,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000086" ;
+	schema:email "" ;
 	schema:url "http://www.amanattou.com/" ;
 	geo:lat "41.8097646" ;
 	geo:long "140.7360775" ;
@@ -743,6 +776,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000085" ;
+	schema:email "" ;
 	schema:url "https://www.facebook.com/214577812298228/" ;
 	geo:lat "42.0967571" ;
 	geo:long "140.5712787" ;
@@ -765,6 +799,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000033" ;
+	schema:email "" ;
 	schema:url "http://premierhotel-group.com/hakodate/" ;
 	geo:lat "41.7728261" ;
 	geo:long "140.7264464" ;
@@ -787,6 +822,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000045" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7995324" ;
 	geo:long "140.7499058" ;
@@ -809,6 +845,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000049" ;
+	schema:email "" ;
 	schema:url "http://www.hakodate-kokusai.jp" ;
 	geo:lat "41.769556" ;
 	geo:long "140.722275" ;
@@ -831,6 +868,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000038" ;
+	schema:email "" ;
 	schema:url "http://kitajima-pan.com" ;
 	geo:lat "41.6771528" ;
 	geo:long "140.4352183" ;
@@ -853,6 +891,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000042" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7805758" ;
 	geo:long "140.7368954" ;
@@ -875,6 +914,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000050" ;
+	schema:email "" ;
 	schema:url "http://chouette-cacao.com/" ;
 	geo:lat "41.7943277" ;
 	geo:long "140.7485133" ;
@@ -897,6 +937,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000052" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8348699" ;
 	geo:long "140.7353764" ;
@@ -919,6 +960,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000055" ;
+	schema:email "" ;
 	schema:url "http://www.gokatteya.co.jp/" ;
 	geo:lat "41.8643843" ;
 	geo:long "140.1256909" ;
@@ -941,6 +983,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000084" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.9172123" ;
 	geo:long "140.224028" ;
@@ -963,7 +1006,8 @@
 	sweet:parking "無休" ;
 	sweet:eatin "無料あり" ;
 	sweet:id "000010" ;
-	schema:url "mailto:info@hokuto-jolicreer.com" ;
+	schema:email "info@hokuto-jolicreer.com" ;
+	schema:url "http://www.hokuto-jolicreer.com" ;
 	geo:lat "41.821807" ;
 	geo:long "140.6521807" ;
 	sweet:featuredproductname "もちもちシュー"@ja ;
@@ -985,6 +1029,7 @@
 	sweet:parking "なし" ;
 	sweet:eatin "なし" ;
 	sweet:id "000024" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.819113" ;
 	geo:long "140.641212" ;
@@ -1007,6 +1052,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000040" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8939836" ;
 	geo:long "140.6880088" ;
@@ -1029,6 +1075,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000062" ;
+	schema:email "" ;
 	schema:url "http://patisserie-baigetsu.com/" ;
 	geo:lat "41.8232915" ;
 	geo:long "140.7613558" ;
@@ -1051,6 +1098,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000037" ;
+	schema:email "" ;
 	schema:url "http://o-kashi-yoshida.com/" ;
 	geo:lat "41.8201138" ;
 	geo:long "140.7170782" ;
@@ -1073,6 +1121,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000036" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8029349" ;
 	geo:long "140.7392804" ;
@@ -1095,6 +1144,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000080" ;
+	schema:email "" ;
 	schema:url "http://luckypierrot.jp/" ;
 	geo:lat "41.7668653" ;
 	geo:long "140.7159983" ;
@@ -1117,6 +1167,7 @@
 	sweet:parking "有料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000078" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.77378" ;
 	geo:long "140.726474" ;
@@ -1139,6 +1190,7 @@
 	sweet:parking "なし" ;
 	sweet:eatin "なし" ;
 	sweet:id "000079" ;
+	schema:email "" ;
 	schema:url "http://www.angeliquevoyage.com" ;
 	geo:lat "41.7679042" ;
 	geo:long "140.7091175" ;
@@ -1161,6 +1213,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000030" ;
+	schema:email "" ;
 	schema:url "http://kadoufoods.meisanichiba.jp/" ;
 	geo:lat "41.7979213" ;
 	geo:long "140.7325228" ;
@@ -1183,6 +1236,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000047" ;
+	schema:email "" ;
 	schema:url "http://www.gotoken.hakodate.jp" ;
 	geo:lat "41.7636242" ;
 	geo:long "140.7159866" ;
@@ -1205,6 +1259,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000058" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7835893" ;
 	geo:long "140.7327734" ;
@@ -1227,6 +1282,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000059" ;
+	schema:email "" ;
 	schema:url "http://koukoumoti.com/" ;
 	geo:lat "41.6764168" ;
 	geo:long "140.4361154" ;
@@ -1249,6 +1305,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000063" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8038799" ;
 	geo:long "140.7593066" ;
@@ -1271,6 +1328,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000012" ;
+	schema:email "" ;
 	schema:url "http://ameblo.jp/lapin-de-neige/" ;
 	geo:lat "41.7691182" ;
 	geo:long "140.7267993" ;
@@ -1293,6 +1351,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000048" ;
+	schema:email "" ;
 	schema:url "http://sensyuansohonke.co.jp" ;
 	geo:lat "41.7611078" ;
 	geo:long "140.7194447" ;
@@ -1315,6 +1374,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000066" ;
+	schema:email "" ;
 	schema:url "http://s.ameblo.jp/patisserie-igrek/" ;
 	geo:lat "41.8253742" ;
 	geo:long "140.6732317" ;
@@ -1337,6 +1397,7 @@
 	sweet:parking "なし" ;
 	sweet:eatin "なし" ;
 	sweet:id "000076" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8251933" ;
 	geo:long "140.6624631" ;
@@ -1359,6 +1420,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000077" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.8661423" ;
 	geo:long "140.1233937" ;
@@ -1381,7 +1443,8 @@
 	sweet:parking "なし" ;
 	sweet:eatin "なし" ;
 	sweet:id "000075" ;
-	schema:url "mailto:xmycj436@yahoo.co.jp" ;
+	schema:email "xmycj436@yahoo.co.jp" ;
+	schema:url "" ;
 	geo:lat "41.7652379" ;
 	geo:long "140.715842" ;
 	sweet:featuredproductname "ママシュー"@ja ;
@@ -1403,7 +1466,8 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000041" ;
-	schema:url "mailto:hokuyoudou@icloud.com" ;
+	schema:email "hokuyoudou@icloud.com" ;
+	schema:url "http://www.hokuyodo.com" ;
 	geo:lat "41.4285338" ;
 	geo:long "140.1086405" ;
 	sweet:featuredproductname "純生桜ロールケーキ"@ja ;
@@ -1425,6 +1489,7 @@
 	sweet:parking "なし" ;
 	sweet:eatin "なし" ;
 	sweet:id "000072" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.4286449" ;
 	geo:long "140.1100403" ;
@@ -1447,6 +1512,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000026" ;
+	schema:email "" ;
 	schema:url "https://www.facebook.com/gourmands.kanta" ;
 	geo:lat "41.7897289" ;
 	geo:long "140.7445837" ;
@@ -1469,6 +1535,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000029" ;
+	schema:email "" ;
 	schema:url "http://www.ikayokan.com" ;
 	geo:lat "41.7870333" ;
 	geo:long "140.7312011" ;
@@ -1491,6 +1558,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000034" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.7893816" ;
 	geo:long "140.7711569" ;
@@ -1513,6 +1581,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000039" ;
+	schema:email "" ;
 	schema:url "http://www.snaffles.jp" ;
 	geo:lat "41.7664572" ;
 	geo:long "140.7169474" ;
@@ -1535,6 +1604,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000051" ;
+	schema:email "" ;
 	schema:url "" ;
 	geo:lat "41.9013216" ;
 	geo:long "140.6888087" ;
@@ -1557,7 +1627,8 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000071" ;
-	schema:url "mailto:otafukudo@gmail.com" ;
+	schema:email "otafukudo@gmail.com" ;
+	schema:url "http://hakodate-otafuku.com" ;
 	geo:lat "41.8024216" ;
 	geo:long "140.7573706" ;
 	sweet:featuredproductname "豆乳函館しふぉん"@ja ;
@@ -1579,6 +1650,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "あり" ;
 	sweet:id "000065" ;
+	schema:email "" ;
 	schema:url "http://www.pechemignon.co.jp/" ;
 	geo:lat "41.779528" ;
 	geo:long "140.7610659" ;
@@ -1601,6 +1673,7 @@
 	sweet:parking "無料あり" ;
 	sweet:eatin "なし" ;
 	sweet:id "000031" ;
+	schema:email "" ;
 	schema:url "http://www.ss-showa.com" ;
 	geo:lat "41.8297923" ;
 	geo:long "140.7212387" ;
